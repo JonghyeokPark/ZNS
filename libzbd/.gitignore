@@ -1,0 +1,60 @@
+# SPDX-License-Identifier: CC0-1.0
+#
+# SPDX-FileCopyrightText: 2020 Western Digital Corporation or its affiliates. 
+
+# Object files
+*.o
+*.lo
+*.obj
+*.elf
+*.la
+*.so
+*.so.*
+*.out
+*.dump
+
+tools/zbd
+tools/gzbd
+tools/gzbd-viewer
+
+# Generated files
+*.desktop
+*.policy
+
+# Dependency files
+.depfile
+.depend
+
+# RPM packages build files and directories
+rpmbuild
+*.tar.gz
+*.rpm
+
+# Debian packages build files and directories
+debbuild
+*.deb
+
+# Other
+Thumbs.db
+desktop.ini
+.DS_Store
+*~
+
+# Autotools stuff
+m4/*.m4
+Makefile.in
+aclocal.m4
+autom4te.cache/
+build-aux/
+configure
+include/config.h.in
+Makefile
+config.log
+config.status
+include/config.h
+include/stamp-h1
+.deps
+libtool
+lib/libzbd.pc
+.libs
+.dirstamp

@@ -1,0 +1,13 @@
+libzbd.so.2 libzbd2 #MINVER#
+ ZBD_GLOBAL@ZBD_GLOBAL 1.1.0
+ zbd_close@ZBD_GLOBAL 1.1.0
+ zbd_device_is_zoned@ZBD_GLOBAL 1.1.0
+ zbd_device_model_str@ZBD_GLOBAL 1.1.0
+ zbd_get_info@ZBD_GLOBAL 2.0.2
+ zbd_list_zones@ZBD_GLOBAL 1.1.0
+ zbd_open@ZBD_GLOBAL 1.1.0
+ zbd_report_zones@ZBD_GLOBAL 1.1.0
+ zbd_set_log_level@ZBD_GLOBAL 1.1.0
+ zbd_zone_cond_str@ZBD_GLOBAL 1.1.0
+ zbd_zone_type_str@ZBD_GLOBAL 1.1.0
+ zbd_zones_operation@ZBD_GLOBAL 1.1.0

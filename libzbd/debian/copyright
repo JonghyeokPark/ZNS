@@ -1,0 +1,71 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: libzbd
+Upstream-Contact: Damien Le Moal <damien.lemoal@wdc.com
+                  Niklas Cassel <niklas.cassel@wdc.com>
+Source: https://github.com/westerndigitalcorporation/libzbd
+
+Files:     *
+Copyright: 2020, 2021, Western Digital Corporation or its affiliates
+License:   GPL-3.0-or-later
+
+Files:     Makefile.am
+           autogen.sh
+           configure.ac
+           lib/exports
+           include/libzbd/zbd.h
+           lib/Makefile.am
+           lib/zbd.c
+           lib/zbd.h
+           lib/zbd_utils.c
+           lib/libzbd.pc.in
+           libzbd.spec
+Copyright: 2020, Western Digital Corporation or its affiliates
+License:   LGPL-3.0-or-later
+
+Files:     m4/dontremove
+           .gitignore
+Copyright: 2020, Western Digital Corporation or its affiliates
+License:   CC0-1.0
+
+Files:     debian/*
+Copyright: 2020, Sudip Mukherjee <sudipm.mukherjee@gmail.com>
+License:   GPL-3.0-or-later
+
+License: GPL-3.0-or-later
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <https://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
+
+License: LGPL-3.0-or-later
+ This package is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 3 of the License, or (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Lesser General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the complete text of the GNU Lesser General
+ Public License can be found in "/usr/share/common-licenses/LGPL-3"
+
+License: CC0-1.0
+ On Debian systems, the full text of the CC0 1.0 Universal
+ License can be found in the file
+ "/usr/share/common-licenses/CC0-1.0"

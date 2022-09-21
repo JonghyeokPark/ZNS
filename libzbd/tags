@@ -1,0 +1,1458 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing aclocal-1.15$/;"	m
+ACLOCAL	lib/Makefile	/^ACLOCAL = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing aclocal-1.15$/;"	m
+ACLOCAL	tools/Makefile	/^ACLOCAL = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing aclocal-1.15$/;"	m
+ACLOCAL_AMFLAGS	Makefile	/^ACLOCAL_AMFLAGS = -I m4$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	lib/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	tools/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMTAR	Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	lib/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	tools/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AM_CFLAGS	lib/Makefile	/^AM_CFLAGS = \\$/;"	m
+AM_CFLAGS	tools/Makefile	/^AM_CFLAGS = \\$/;"	m
+AM_DEFAULT_VERBOSITY	Makefile	/^AM_DEFAULT_VERBOSITY = 0$/;"	m
+AM_DEFAULT_VERBOSITY	lib/Makefile	/^AM_DEFAULT_VERBOSITY = 0$/;"	m
+AM_DEFAULT_VERBOSITY	tools/Makefile	/^AM_DEFAULT_VERBOSITY = 0$/;"	m
+AM_RECURSIVE_TARGETS	Makefile	/^AM_RECURSIVE_TARGETS = $(am__recursive_targets:-recursive=) TAGS CTAGS \\$/;"	m
+AM_RECURSIVE_TARGETS	tools/Makefile	/^AM_RECURSIVE_TARGETS = $(am__recursive_targets:-recursive=) TAGS CTAGS \\$/;"	m
+AM_V_CC	lib/Makefile	/^AM_V_CC = $(am__v_CC_$(V))$/;"	m
+AM_V_CC	tools/Makefile	/^AM_V_CC = $(am__v_CC_$(V))$/;"	m
+AM_V_CCLD	lib/Makefile	/^AM_V_CCLD = $(am__v_CCLD_$(V))$/;"	m
+AM_V_CCLD	tools/Makefile	/^AM_V_CCLD = $(am__v_CCLD_$(V))$/;"	m
+AM_V_GEN	Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	lib/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	tools/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_P	Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	lib/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	tools/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_at	Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	lib/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	tools/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_lt	lib/Makefile	/^AM_V_lt = $(am__v_lt_$(V))$/;"	m
+AM_V_lt	tools/Makefile	/^AM_V_lt = $(am__v_lt_$(V))$/;"	m
+AR	Makefile	/^AR = ar$/;"	m
+AR	lib/Makefile	/^AR = ar$/;"	m
+AR	tools/Makefile	/^AR = ar$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing autoconf$/;"	m
+AUTOCONF	lib/Makefile	/^AUTOCONF = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing autoconf$/;"	m
+AUTOCONF	tools/Makefile	/^AUTOCONF = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing autoheader$/;"	m
+AUTOHEADER	lib/Makefile	/^AUTOHEADER = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing autoheader$/;"	m
+AUTOHEADER	tools/Makefile	/^AUTOHEADER = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing automake-1.15$/;"	m
+AUTOMAKE	lib/Makefile	/^AUTOMAKE = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing automake-1.15$/;"	m
+AUTOMAKE	tools/Makefile	/^AUTOMAKE = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing automake-1.15$/;"	m
+AWK	Makefile	/^AWK = gawk$/;"	m
+AWK	lib/Makefile	/^AWK = gawk$/;"	m
+AWK	tools/Makefile	/^AWK = gawk$/;"	m
+BLKCLOSEZONE	lib/zbd.c	683;"	d	file:
+BLKFINISHZONE	lib/zbd.c	686;"	d	file:
+BLKOPENZONE	lib/zbd.c	680;"	d	file:
+BLK_ZONE_REP_CAPACITY	lib/zbd.h	28;"	d
+CC	Makefile	/^CC = gcc$/;"	m
+CC	lib/Makefile	/^CC = gcc$/;"	m
+CC	tools/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	lib/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	tools/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	lib/Makefile	/^CCLD = $(CC)$/;"	m
+CCLD	tools/Makefile	/^CCLD = $(CC)$/;"	m
+CFILES	lib/Makefile	/^CFILES = \\$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -O2   -pthread$/;"	m
+CFLAGS	lib/Makefile	/^CFLAGS = -O2   -pthread$/;"	m
+CFLAGS	tools/Makefile	/^CFLAGS = -O2   -pthread$/;"	m
+COMPILE	lib/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+COMPILE	tools/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	lib/Makefile	/^CONFIG_CLEAN_FILES = libzbd.pc$/;"	m
+CONFIG_CLEAN_FILES	tools/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	lib/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	tools/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = $(top_builddir)\/include\/config.h$/;"	m
+CONFIG_HEADER	lib/Makefile	/^CONFIG_HEADER = $(top_builddir)\/include\/config.h$/;"	m
+CONFIG_HEADER	tools/Makefile	/^CONFIG_HEADER = $(top_builddir)\/include\/config.h$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPP	lib/Makefile	/^CPP = gcc -E$/;"	m
+CPP	tools/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	lib/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	tools/Makefile	/^CPPFLAGS = $/;"	m
+CSCOPE	Makefile	/^CSCOPE = cscope$/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	lib/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	tools/Makefile	/^CTAGS = ctags$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	lib/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	tools/Makefile	/^CYGPATH_W = echo$/;"	m
+CreateProcess	build-aux/ltmain.sh	/^   CreateProcess().  We must quote the arguments since Win32 CreateProcess()$/;"	f
+CreateProcess	libtool	/^   CreateProcess().  We must quote the arguments since Win32 CreateProcess()$/;"	f
+DATA	lib/Makefile	/^DATA = $(pkgconf_DATA)$/;"	m
+DEFAULT_INCLUDES	lib/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)\/include$/;"	m
+DEFAULT_INCLUDES	tools/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)\/include$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	lib/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	tools/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	lib/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	tools/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	lib/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	tools/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_ARCHIVES	Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(top_srcdir)\/configure \\$/;"	m
+DIST_COMMON	lib/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(pkginclude_HEADERS) \\$/;"	m
+DIST_COMMON	tools/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(am__DIST_COMMON)$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	lib/Makefile	/^DIST_SOURCES = $(libzbd_la_SOURCES)$/;"	m
+DIST_SOURCES	tools/Makefile	/^DIST_SOURCES = $(am__gzbd_SOURCES_DIST) \\$/;"	m
+DIST_SUBDIRS	Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DIST_SUBDIRS	tools/Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DIST_TARGETS	Makefile	/^DIST_TARGETS = dist-gzip$/;"	m
+DLLTOOL	Makefile	/^DLLTOOL = false$/;"	m
+DLLTOOL	lib/Makefile	/^DLLTOOL = false$/;"	m
+DLLTOOL	tools/Makefile	/^DLLTOOL = false$/;"	m
+DSYMUTIL	Makefile	/^DSYMUTIL = $/;"	m
+DSYMUTIL	lib/Makefile	/^DSYMUTIL = $/;"	m
+DSYMUTIL	tools/Makefile	/^DSYMUTIL = $/;"	m
+DUMPBIN	Makefile	/^DUMPBIN = $/;"	m
+DUMPBIN	lib/Makefile	/^DUMPBIN = $/;"	m
+DUMPBIN	tools/Makefile	/^DUMPBIN = $/;"	m
+DZ_CMD_REPORT_ZONES	tools/gui/gzbd.h	/^	DZ_CMD_REPORT_ZONES,$/;"	e	enum:__anon2
+DZ_CMD_ZONE_OP	tools/gui/gzbd.h	/^	DZ_CMD_ZONE_OP,$/;"	e	enum:__anon2
+DZ_DRAW_HOFST	tools/gui/gzbd_if_dev.c	1268;"	d	file:
+DZ_DRAW_WOFST	tools/gui/gzbd_if_dev.c	1267;"	d	file:
+DZ_INTERVAL	tools/gui/gzbd.h	19;"	d
+DZ_MAX_DEV	tools/gui/gzbd.h	40;"	d
+DZ_ZONE_LIST_COLUMS	tools/gui/gzbd.h	/^	DZ_ZONE_LIST_COLUMS$/;"	e	enum:__anon1
+DZ_ZONE_NUM	tools/gui/gzbd.h	/^	DZ_ZONE_NUM = 0,$/;"	e	enum:__anon1
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_C	lib/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	tools/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	lib/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	tools/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+ECHO_T	lib/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	tools/Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	lib/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	tools/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ENOIOCTLCMD	lib/zbd.c	690;"	d	file:
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+ETAGS	lib/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	tools/Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXEEXT	lib/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	tools/Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	Makefile	/^EXTRA_DIST = autogen.sh README.md LICENSES\/GPL-3.0-or-later.txt \\$/;"	m
+EXTRA_DIST	lib/Makefile	/^EXTRA_DIST = exports$/;"	m
+FGREP	Makefile	/^FGREP = \/bin\/grep -F$/;"	m
+FGREP	lib/Makefile	/^FGREP = \/bin\/grep -F$/;"	m
+FGREP	tools/Makefile	/^FGREP = \/bin\/grep -F$/;"	m
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	lib/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	tools/Makefile	/^GREP = \/bin\/grep$/;"	m
+GTK_CFLAGS	Makefile	/^GTK_CFLAGS = $/;"	m
+GTK_CFLAGS	lib/Makefile	/^GTK_CFLAGS = $/;"	m
+GTK_CFLAGS	tools/Makefile	/^GTK_CFLAGS = $/;"	m
+GTK_LIBS	Makefile	/^GTK_LIBS = $/;"	m
+GTK_LIBS	lib/Makefile	/^GTK_LIBS = $/;"	m
+GTK_LIBS	tools/Makefile	/^GTK_LIBS = $/;"	m
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m
+HAVE_DLFCN_H	include/config.h	8;"	d
+HAVE_INTTYPES_H	include/config.h	11;"	d
+HAVE_MEMORY_H	include/config.h	14;"	d
+HAVE_PTHREAD	include/config.h	17;"	d
+HAVE_PTHREAD_PRIO_INHERIT	include/config.h	20;"	d
+HAVE_STDINT_H	include/config.h	23;"	d
+HAVE_STDLIB_H	include/config.h	26;"	d
+HAVE_STRINGS_H	include/config.h	29;"	d
+HAVE_STRING_H	include/config.h	32;"	d
+HAVE_SYS_STAT_H	include/config.h	35;"	d
+HAVE_SYS_TYPES_H	include/config.h	38;"	d
+HAVE_UNISTD_H	include/config.h	41;"	d
+HEADERS	lib/Makefile	/^HEADERS = $(pkginclude_HEADERS)$/;"	m
+HFILES	lib/Makefile	/^HFILES = \\$/;"	m
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	lib/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	tools/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	lib/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	tools/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	lib/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	tools/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	lib/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	tools/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	lib/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	tools/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	lib/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	tools/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+LD	Makefile	/^LD = \/usr\/bin\/ld -m elf_x86_64$/;"	m
+LD	lib/Makefile	/^LD = \/usr\/bin\/ld -m elf_x86_64$/;"	m
+LD	tools/Makefile	/^LD = \/usr\/bin\/ld -m elf_x86_64$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	lib/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	tools/Makefile	/^LDFLAGS = $/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	lib/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	tools/Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS =  $/;"	m
+LIBS	lib/Makefile	/^LIBS =  $/;"	m
+LIBS	tools/Makefile	/^LIBS =  $/;"	m
+LIBTOOL	Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LIBTOOL	lib/Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LIBTOOL	tools/Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LIBZBD_VERSION_LT	Makefile	/^LIBZBD_VERSION_LT = 2:0:0$/;"	m
+LIBZBD_VERSION_LT	lib/Makefile	/^LIBZBD_VERSION_LT = 2:0:0$/;"	m
+LIBZBD_VERSION_LT	tools/Makefile	/^LIBZBD_VERSION_LT = 2:0:0$/;"	m
+LINK	lib/Makefile	/^LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+LINK	tools/Makefile	/^LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+LIPO	Makefile	/^LIPO = $/;"	m
+LIPO	lib/Makefile	/^LIPO = $/;"	m
+LIPO	tools/Makefile	/^LIPO = $/;"	m
+LN_S	Makefile	/^LN_S = ln -s$/;"	m
+LN_S	lib/Makefile	/^LN_S = ln -s$/;"	m
+LN_S	tools/Makefile	/^LN_S = ln -s$/;"	m
+LTCOMPILE	lib/Makefile	/^LTCOMPILE = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+LTCOMPILE	tools/Makefile	/^LTCOMPILE = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	lib/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	tools/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBRARIES	lib/Makefile	/^LTLIBRARIES = $(lib_LTLIBRARIES)$/;"	m
+LT_OBJDIR	include/config.h	44;"	d
+LT_SYS_LIBRARY_PATH	Makefile	/^LT_SYS_LIBRARY_PATH = $/;"	m
+LT_SYS_LIBRARY_PATH	lib/Makefile	/^LT_SYS_LIBRARY_PATH = $/;"	m
+LT_SYS_LIBRARY_PATH	tools/Makefile	/^LT_SYS_LIBRARY_PATH = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing makeinfo$/;"	m
+MAKEINFO	lib/Makefile	/^MAKEINFO = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing makeinfo$/;"	m
+MAKEINFO	tools/Makefile	/^MAKEINFO = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/missing makeinfo$/;"	m
+MANIFEST_TOOL	Makefile	/^MANIFEST_TOOL = :$/;"	m
+MANIFEST_TOOL	lib/Makefile	/^MANIFEST_TOOL = :$/;"	m
+MANIFEST_TOOL	tools/Makefile	/^MANIFEST_TOOL = :$/;"	m
+MANS	tools/Makefile	/^MANS = $(dist_man8_MANS)$/;"	m
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	lib/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	tools/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+NDEBUG	include/config.h	47;"	d
+NM	Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NM	lib/Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NM	tools/Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NMEDIT	Makefile	/^NMEDIT = $/;"	m
+NMEDIT	lib/Makefile	/^NMEDIT = $/;"	m
+NMEDIT	tools/Makefile	/^NMEDIT = $/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	lib/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	tools/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	lib/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	tools/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NROFF	tools/Makefile	/^NROFF = nroff$/;"	m
+OBJDUMP	Makefile	/^OBJDUMP = objdump$/;"	m
+OBJDUMP	lib/Makefile	/^OBJDUMP = objdump$/;"	m
+OBJDUMP	tools/Makefile	/^OBJDUMP = objdump$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	lib/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	tools/Makefile	/^OBJEXT = o$/;"	m
+OTOOL	Makefile	/^OTOOL = $/;"	m
+OTOOL	lib/Makefile	/^OTOOL = $/;"	m
+OTOOL	tools/Makefile	/^OTOOL = $/;"	m
+OTOOL64	Makefile	/^OTOOL64 = $/;"	m
+OTOOL64	lib/Makefile	/^OTOOL64 = $/;"	m
+OTOOL64	tools/Makefile	/^OTOOL64 = $/;"	m
+PACKAGE	Makefile	/^PACKAGE = libzbd$/;"	m
+PACKAGE	include/config.h	50;"	d
+PACKAGE	lib/Makefile	/^PACKAGE = libzbd$/;"	m
+PACKAGE	tools/Makefile	/^PACKAGE = libzbd$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = damien.lemoal@wdc.com, niklas.cassel@wdc.com$/;"	m
+PACKAGE_BUGREPORT	include/config.h	53;"	d
+PACKAGE_BUGREPORT	lib/Makefile	/^PACKAGE_BUGREPORT = damien.lemoal@wdc.com, niklas.cassel@wdc.com$/;"	m
+PACKAGE_BUGREPORT	tools/Makefile	/^PACKAGE_BUGREPORT = damien.lemoal@wdc.com, niklas.cassel@wdc.com$/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = libzbd$/;"	m
+PACKAGE_NAME	include/config.h	56;"	d
+PACKAGE_NAME	lib/Makefile	/^PACKAGE_NAME = libzbd$/;"	m
+PACKAGE_NAME	tools/Makefile	/^PACKAGE_NAME = libzbd$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = libzbd 2.0.0$/;"	m
+PACKAGE_STRING	include/config.h	59;"	d
+PACKAGE_STRING	lib/Makefile	/^PACKAGE_STRING = libzbd 2.0.0$/;"	m
+PACKAGE_STRING	tools/Makefile	/^PACKAGE_STRING = libzbd 2.0.0$/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = libzbd$/;"	m
+PACKAGE_TARNAME	include/config.h	62;"	d
+PACKAGE_TARNAME	lib/Makefile	/^PACKAGE_TARNAME = libzbd$/;"	m
+PACKAGE_TARNAME	tools/Makefile	/^PACKAGE_TARNAME = libzbd$/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = https:\/\/github.com\/westerndigitalcorporation\/libzbd$/;"	m
+PACKAGE_URL	include/config.h	65;"	d
+PACKAGE_URL	lib/Makefile	/^PACKAGE_URL = https:\/\/github.com\/westerndigitalcorporation\/libzbd$/;"	m
+PACKAGE_URL	tools/Makefile	/^PACKAGE_URL = https:\/\/github.com\/westerndigitalcorporation\/libzbd$/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 2.0.0$/;"	m
+PACKAGE_VERSION	include/config.h	68;"	d
+PACKAGE_VERSION	lib/Makefile	/^PACKAGE_VERSION = 2.0.0$/;"	m
+PACKAGE_VERSION	tools/Makefile	/^PACKAGE_VERSION = 2.0.0$/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	lib/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	tools/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PKG_CONFIG	Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG	lib/Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG	tools/Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG_LIBDIR	Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_LIBDIR	lib/Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_LIBDIR	tools/Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_PATH	Makefile	/^PKG_CONFIG_PATH = $/;"	m
+PKG_CONFIG_PATH	lib/Makefile	/^PKG_CONFIG_PATH = $/;"	m
+PKG_CONFIG_PATH	tools/Makefile	/^PKG_CONFIG_PATH = $/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	lib/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	tools/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	lib/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	tools/Makefile	/^POST_UNINSTALL = :$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	lib/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	tools/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	lib/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	tools/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	tools/Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+PTHREAD_CC	Makefile	/^PTHREAD_CC = gcc$/;"	m
+PTHREAD_CC	lib/Makefile	/^PTHREAD_CC = gcc$/;"	m
+PTHREAD_CC	tools/Makefile	/^PTHREAD_CC = gcc$/;"	m
+PTHREAD_CFLAGS	Makefile	/^PTHREAD_CFLAGS = -pthread$/;"	m
+PTHREAD_CFLAGS	lib/Makefile	/^PTHREAD_CFLAGS = -pthread$/;"	m
+PTHREAD_CFLAGS	tools/Makefile	/^PTHREAD_CFLAGS = -pthread$/;"	m
+PTHREAD_LIBS	Makefile	/^PTHREAD_LIBS = $/;"	m
+PTHREAD_LIBS	lib/Makefile	/^PTHREAD_LIBS = $/;"	m
+PTHREAD_LIBS	tools/Makefile	/^PTHREAD_LIBS = $/;"	m
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	lib/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	tools/Makefile	/^RANLIB = ranlib$/;"	m
+RECURSIVE_CLEAN_TARGETS	Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_CLEAN_TARGETS	tools/Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_TARGETS	Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive cscopelist-recursive \\$/;"	m
+RECURSIVE_TARGETS	tools/Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive cscopelist-recursive \\$/;"	m
+RPM	Makefile	/^RPM = notfound$/;"	m
+RPM	lib/Makefile	/^RPM = notfound$/;"	m
+RPM	tools/Makefile	/^RPM = notfound$/;"	m
+RPMBUILD	Makefile	/^RPMBUILD = notfound$/;"	m
+RPMBUILD	lib/Makefile	/^RPMBUILD = notfound$/;"	m
+RPMBUILD	tools/Makefile	/^RPMBUILD = notfound$/;"	m
+SECTOR_SHIFT	lib/zbd.h	22;"	d
+SED	Makefile	/^SED = \/bin\/sed$/;"	m
+SED	lib/Makefile	/^SED = \/bin\/sed$/;"	m
+SED	tools/Makefile	/^SED = \/bin\/sed$/;"	m
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	lib/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	tools/Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	lib/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	tools/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SOURCES	Makefile	/^SOURCES =$/;"	m
+SOURCES	lib/Makefile	/^SOURCES = $(libzbd_la_SOURCES)$/;"	m
+SOURCES	tools/Makefile	/^SOURCES = $(gzbd_SOURCES) $(gzbd_viewer_SOURCES) $(zbd_SOURCES)$/;"	m
+STDC_HEADERS	include/config.h	75;"	d
+STRIP	Makefile	/^STRIP = strip$/;"	m
+STRIP	lib/Makefile	/^STRIP = strip$/;"	m
+STRIP	tools/Makefile	/^STRIP = strip$/;"	m
+SUBDIRS	Makefile	/^SUBDIRS = lib tools$/;"	m
+SUBDIRS	tools/Makefile	/^SUBDIRS = . $(subdirs)$/;"	m
+VERSION	Makefile	/^VERSION = 2.0.0$/;"	m
+VERSION	include/config.h	100;"	d
+VERSION	lib/Makefile	/^VERSION = 2.0.0$/;"	m
+VERSION	tools/Makefile	/^VERSION = 2.0.0$/;"	m
+ZBD_CLOSE	tools/cli/zbd.h	/^	ZBD_CLOSE,$/;"	e	enum:zbd_cmd
+ZBD_DM_HOST_AWARE	include/libzbd/zbd.h	/^	ZBD_DM_HOST_AWARE,$/;"	e	enum:zbd_dev_model
+ZBD_DM_HOST_MANAGED	include/libzbd/zbd.h	/^	ZBD_DM_HOST_MANAGED = 1,$/;"	e	enum:zbd_dev_model
+ZBD_DM_NOT_ZONED	include/libzbd/zbd.h	/^	ZBD_DM_NOT_ZONED,$/;"	e	enum:zbd_dev_model
+ZBD_DUMP	tools/cli/zbd.h	/^	ZBD_DUMP,$/;"	e	enum:zbd_cmd
+ZBD_DUMP_IO_SIZE	tools/cli/zbd_dump.c	148;"	d	file:
+ZBD_FD_MAX	lib/zbd.c	23;"	d	file:
+ZBD_FINISH	tools/cli/zbd.h	/^	ZBD_FINISH,$/;"	e	enum:zbd_cmd
+ZBD_LOG_DEBUG	include/libzbd/zbd.h	/^	ZBD_LOG_DEBUG,		\/* Debug-level messages *\/$/;"	e	enum:zbd_log_level
+ZBD_LOG_ERROR	include/libzbd/zbd.h	/^	ZBD_LOG_ERROR,		\/* Output details about errors *\/$/;"	e	enum:zbd_log_level
+ZBD_LOG_NONE	include/libzbd/zbd.h	/^	ZBD_LOG_NONE = 0,	\/* Disable all messages *\/$/;"	e	enum:zbd_log_level
+ZBD_OPEN	tools/cli/zbd.h	/^	ZBD_OPEN,$/;"	e	enum:zbd_cmd
+ZBD_OP_CLOSE	include/libzbd/zbd.h	/^	ZBD_OP_CLOSE	= 0x03,$/;"	e	enum:zbd_zone_op
+ZBD_OP_FINISH	include/libzbd/zbd.h	/^	ZBD_OP_FINISH	= 0x04,$/;"	e	enum:zbd_zone_op
+ZBD_OP_OPEN	include/libzbd/zbd.h	/^	ZBD_OP_OPEN	= 0x02,$/;"	e	enum:zbd_zone_op
+ZBD_OP_RESET	include/libzbd/zbd.h	/^	ZBD_OP_RESET	= 0x01,$/;"	e	enum:zbd_zone_op
+ZBD_REPORT	tools/cli/zbd.h	/^	ZBD_REPORT,$/;"	e	enum:zbd_cmd
+ZBD_REPORT_MAX_NR_ZONE	lib/zbd.c	515;"	d	file:
+ZBD_RESET	tools/cli/zbd.h	/^	ZBD_RESET,$/;"	e	enum:zbd_cmd
+ZBD_RESTORE	tools/cli/zbd.h	/^	ZBD_RESTORE,$/;"	e	enum:zbd_cmd
+ZBD_RO_ALL	include/libzbd/zbd.h	/^	ZBD_RO_ALL		= 0x00,$/;"	e	enum:zbd_report_option
+ZBD_RO_CLOSED	include/libzbd/zbd.h	/^	ZBD_RO_CLOSED		= 0x04,$/;"	e	enum:zbd_report_option
+ZBD_RO_EMPTY	include/libzbd/zbd.h	/^	ZBD_RO_EMPTY		= 0x01,$/;"	e	enum:zbd_report_option
+ZBD_RO_EXP_OPEN	include/libzbd/zbd.h	/^	ZBD_RO_EXP_OPEN		= 0x03,$/;"	e	enum:zbd_report_option
+ZBD_RO_FULL	include/libzbd/zbd.h	/^	ZBD_RO_FULL		= 0x05,$/;"	e	enum:zbd_report_option
+ZBD_RO_IMP_OPEN	include/libzbd/zbd.h	/^	 ZBD_RO_IMP_OPEN	= 0x02,$/;"	e	enum:zbd_report_option
+ZBD_RO_NON_SEQ	include/libzbd/zbd.h	/^	ZBD_RO_NON_SEQ		= 0x11,$/;"	e	enum:zbd_report_option
+ZBD_RO_NOT_WP	include/libzbd/zbd.h	/^	ZBD_RO_NOT_WP		= 0x3f,$/;"	e	enum:zbd_report_option
+ZBD_RO_OFFLINE	include/libzbd/zbd.h	/^	ZBD_RO_OFFLINE		= 0x07,$/;"	e	enum:zbd_report_option
+ZBD_RO_RDONLY	include/libzbd/zbd.h	/^	ZBD_RO_RDONLY		= 0x06,$/;"	e	enum:zbd_report_option
+ZBD_RO_RWP_RECOMMENDED	include/libzbd/zbd.h	/^	ZBD_RO_RWP_RECOMMENDED	= 0x10,$/;"	e	enum:zbd_report_option
+ZBD_VENDOR_ID_LENGTH	include/libzbd/zbd.h	127;"	d
+ZBD_ZONE_COND_CLOSED	include/libzbd/zbd.h	/^	ZBD_ZONE_COND_CLOSED	= BLK_ZONE_COND_CLOSED,$/;"	e	enum:zbd_zone_cond
+ZBD_ZONE_COND_EMPTY	include/libzbd/zbd.h	/^	ZBD_ZONE_COND_EMPTY	= BLK_ZONE_COND_EMPTY,$/;"	e	enum:zbd_zone_cond
+ZBD_ZONE_COND_EXP_OPEN	include/libzbd/zbd.h	/^	ZBD_ZONE_COND_EXP_OPEN	= BLK_ZONE_COND_EXP_OPEN,$/;"	e	enum:zbd_zone_cond
+ZBD_ZONE_COND_FULL	include/libzbd/zbd.h	/^	ZBD_ZONE_COND_FULL	= BLK_ZONE_COND_FULL,$/;"	e	enum:zbd_zone_cond
+ZBD_ZONE_COND_IMP_OPEN	include/libzbd/zbd.h	/^	ZBD_ZONE_COND_IMP_OPEN	= BLK_ZONE_COND_IMP_OPEN,$/;"	e	enum:zbd_zone_cond
+ZBD_ZONE_COND_NOT_WP	include/libzbd/zbd.h	/^	ZBD_ZONE_COND_NOT_WP	= BLK_ZONE_COND_NOT_WP,$/;"	e	enum:zbd_zone_cond
+ZBD_ZONE_COND_OFFLINE	include/libzbd/zbd.h	/^	ZBD_ZONE_COND_OFFLINE	= BLK_ZONE_COND_OFFLINE,$/;"	e	enum:zbd_zone_cond
+ZBD_ZONE_COND_READONLY	include/libzbd/zbd.h	/^	ZBD_ZONE_COND_READONLY	= BLK_ZONE_COND_READONLY,$/;"	e	enum:zbd_zone_cond
+ZBD_ZONE_NON_SEQ_RESOURCES	include/libzbd/zbd.h	/^	ZBD_ZONE_NON_SEQ_RESOURCES	= (1U << 1),$/;"	e	enum:zbd_zone_flags
+ZBD_ZONE_RWP_RECOMMENDED	include/libzbd/zbd.h	/^	ZBD_ZONE_RWP_RECOMMENDED	= (1U << 0),$/;"	e	enum:zbd_zone_flags
+ZBD_ZONE_TYPE_CNV	include/libzbd/zbd.h	/^	ZBD_ZONE_TYPE_CNV	= BLK_ZONE_TYPE_CONVENTIONAL,$/;"	e	enum:zbd_zone_type
+ZBD_ZONE_TYPE_SWP	include/libzbd/zbd.h	/^	ZBD_ZONE_TYPE_SWP	= BLK_ZONE_TYPE_SEQWRITE_PREF,$/;"	e	enum:zbd_zone_type
+ZBD_ZONE_TYPE_SWR	include/libzbd/zbd.h	/^	ZBD_ZONE_TYPE_SWR	= BLK_ZONE_TYPE_SEQWRITE_REQ,$/;"	e	enum:zbd_zone_type
+_ALL_SOURCE	include/config.h	79;"	d
+_DARWIN_USE_64_BIT_INODE	include/config.h	104;"	d
+_GNU_SOURCE	include/config.h	83;"	d
+_GNU_SOURCE	lib/zbd.h	11;"	d
+_GNU_SOURCE	tools/cli/zbd.h	11;"	d
+_LARGEFILE64_SOURCE	tools/cli/zbd.h	10;"	d
+_LARGEFILE64_SOURCE	tools/gui/gzbd.c	7;"	d	file:
+_LIBZBD_H_	include/libzbd/zbd.h	11;"	d
+_POSIX_PTHREAD_SEMANTICS	include/config.h	87;"	d
+_TANDEM_SOURCE	include/config.h	91;"	d
+_ZBD_TOOL_H_	tools/cli/zbd.h	8;"	d
+__EXTENSIONS__	include/config.h	95;"	d
+__GZBD_H__	tools/gui/gzbd.h	8;"	d
+__GZVIEWER_H__	tools/viewer/gzbd_viewer.h	8;"	d
+__LIBZBD_INTERNAL_H__	lib/zbd.h	9;"	d
+abort	tools/gui/gzbd.h	/^	int			abort;$/;"	m	struct:dz
+abort	tools/viewer/gzbd_viewer.h	/^	int			abort;$/;"	m	struct:gzv
+abs_builddir	Makefile	/^abs_builddir = \/home\/vldb\/Samsung\/libzbd$/;"	m
+abs_builddir	lib/Makefile	/^abs_builddir = \/home\/vldb\/Samsung\/libzbd\/lib$/;"	m
+abs_builddir	tools/Makefile	/^abs_builddir = \/home\/vldb\/Samsung\/libzbd\/tools$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/vldb\/Samsung\/libzbd$/;"	m
+abs_srcdir	lib/Makefile	/^abs_srcdir = \/home\/vldb\/Samsung\/libzbd\/lib$/;"	m
+abs_srcdir	tools/Makefile	/^abs_srcdir = \/home\/vldb\/Samsung\/libzbd\/tools$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/vldb\/Samsung\/libzbd$/;"	m
+abs_top_builddir	lib/Makefile	/^abs_top_builddir = \/home\/vldb\/Samsung\/libzbd$/;"	m
+abs_top_builddir	tools/Makefile	/^abs_top_builddir = \/home\/vldb\/Samsung\/libzbd$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/vldb\/Samsung\/libzbd$/;"	m
+abs_top_srcdir	lib/Makefile	/^abs_top_srcdir = \/home\/vldb\/Samsung\/libzbd$/;"	m
+abs_top_srcdir	tools/Makefile	/^abs_top_srcdir = \/home\/vldb\/Samsung\/libzbd$/;"	m
+ac_ct_AR	Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_AR	lib/Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_AR	tools/Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	lib/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	tools/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_DUMPBIN	Makefile	/^ac_ct_DUMPBIN = $/;"	m
+ac_ct_DUMPBIN	lib/Makefile	/^ac_ct_DUMPBIN = $/;"	m
+ac_ct_DUMPBIN	tools/Makefile	/^ac_ct_DUMPBIN = $/;"	m
+ac_fn_c_check_func	configure	/^ac_fn_c_check_func ()$/;"	f
+ac_fn_c_check_header_compile	configure	/^ac_fn_c_check_header_compile ()$/;"	f
+ac_fn_c_check_header_mongrel	configure	/^ac_fn_c_check_header_mongrel ()$/;"	f
+ac_fn_c_check_member	configure	/^ac_fn_c_check_member ()$/;"	f
+ac_fn_c_try_compile	configure	/^ac_fn_c_try_compile ()$/;"	f
+ac_fn_c_try_cpp	configure	/^ac_fn_c_try_cpp ()$/;"	f
+ac_fn_c_try_link	configure	/^ac_fn_c_try_link ()$/;"	f
+ac_fn_c_try_run	configure	/^ac_fn_c_try_run ()$/;"	f
+action	tools/cli/zbd.c	/^	int (*action)(int, struct zbd_opts *);$/;"	m	struct:zbd_action	file:
+aix_post_process_depfile	build-aux/depcomp	/^aix_post_process_depfile ()$/;"	f
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__DEPENDENCIES_1	tools/Makefile	/^am__DEPENDENCIES_1 =$/;"	m
+am__DIST_COMMON	Makefile	/^am__DIST_COMMON = $(srcdir)\/Makefile.in $(top_srcdir)\/build-aux\/ar-lib \\$/;"	m
+am__DIST_COMMON	lib/Makefile	/^am__DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/libzbd.pc.in \\$/;"	m
+am__DIST_COMMON	tools/Makefile	/^am__DIST_COMMON = $(dist_man8_MANS) $(srcdir)\/Makefile.in \\$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/libtool.m4 \\$/;"	m
+am__aclocal_m4_deps	lib/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/libtool.m4 \\$/;"	m
+am__aclocal_m4_deps	tools/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/libtool.m4 \\$/;"	m
+am__base_list	lib/Makefile	/^am__base_list = \\$/;"	m
+am__base_list	tools/Makefile	/^am__base_list = \\$/;"	m
+am__can_run_installinfo	Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	lib/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	tools/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	lib/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	tools/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	lib/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	tools/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__define_uniq_tagged_files	Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__define_uniq_tagged_files	lib/Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__define_uniq_tagged_files	tools/Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__depfiles_maybe	lib/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__depfiles_maybe	tools/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__dirstamp	tools/Makefile	/^am__dirstamp = $(am__leading_dot)dirstamp$/;"	m
+am__distuninstallcheck_listfiles	Makefile	/^am__distuninstallcheck_listfiles = $(distuninstallcheck_listfiles) \\$/;"	m
+am__gzbd_SOURCES_DIST	tools/Makefile	/^am__gzbd_SOURCES_DIST = gui\/gzbd.c gui\/gzbd_if.c gui\/gzbd_if_dev.c \\$/;"	m
+am__gzbd_viewer_SOURCES_DIST	tools/Makefile	/^am__gzbd_viewer_SOURCES_DIST = viewer\/gzbd_viewer.c \\$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__include	lib/Makefile	/^am__include = include$/;"	m
+am__include	tools/Makefile	/^am__include = include$/;"	m
+am__install_max	lib/Makefile	/^am__install_max = 40$/;"	m
+am__install_max	tools/Makefile	/^am__install_max = 40$/;"	m
+am__installdirs	lib/Makefile	/^am__installdirs = "$(DESTDIR)$(libdir)" "$(DESTDIR)$(pkgconfdir)" \\$/;"	m
+am__installdirs	tools/Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)" "$(DESTDIR)$(man8dir)"$/;"	m
+am__is_gnu_make	Makefile	/^am__is_gnu_make = { \\$/;"	m
+am__is_gnu_make	lib/Makefile	/^am__is_gnu_make = { \\$/;"	m
+am__is_gnu_make	tools/Makefile	/^am__is_gnu_make = { \\$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	lib/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	tools/Makefile	/^am__leading_dot = .$/;"	m
+am__make_dryrun	Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	lib/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	tools/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	lib/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	tools/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_running_with_option	Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	lib/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	tools/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__mv	lib/Makefile	/^am__mv = mv -f$/;"	m
+am__mv	tools/Makefile	/^am__mv = mv -f$/;"	m
+am__nobase_list	lib/Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_list	tools/Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_strip	lib/Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip	tools/Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip_setup	lib/Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__nobase_strip_setup	tools/Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__objects_1	lib/Makefile	/^am__objects_1 = libzbd_la-zbd.lo libzbd_la-zbd_utils.lo$/;"	m
+am__objects_2	lib/Makefile	/^am__objects_2 =$/;"	m
+am__post_remove_distdir	Makefile	/^am__post_remove_distdir = $(am__remove_distdir)$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__quote	lib/Makefile	/^am__quote = $/;"	m
+am__quote	tools/Makefile	/^am__quote = $/;"	m
+am__recursive_targets	Makefile	/^am__recursive_targets = \\$/;"	m
+am__recursive_targets	tools/Makefile	/^am__recursive_targets = \\$/;"	m
+am__relativize	Makefile	/^am__relativize = \\$/;"	m
+am__relativize	tools/Makefile	/^am__relativize = \\$/;"	m
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m
+am__strip_dir	lib/Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__strip_dir	tools/Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__tagged_files	Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	lib/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	tools/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tar	Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	lib/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	tools/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__uninstall_files_from_dir	lib/Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__uninstall_files_from_dir	tools/Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__uniquify_input	Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__uniquify_input	lib/Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__uniquify_input	tools/Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__untar	Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	lib/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	tools/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__v_CCLD_	lib/Makefile	/^am__v_CCLD_ = $(am__v_CCLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CCLD_	tools/Makefile	/^am__v_CCLD_ = $(am__v_CCLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CCLD_0	lib/Makefile	/^am__v_CCLD_0 = @echo "  CCLD    " $@;$/;"	m
+am__v_CCLD_0	tools/Makefile	/^am__v_CCLD_0 = @echo "  CCLD    " $@;$/;"	m
+am__v_CCLD_1	lib/Makefile	/^am__v_CCLD_1 = $/;"	m
+am__v_CCLD_1	tools/Makefile	/^am__v_CCLD_1 = $/;"	m
+am__v_CC_	lib/Makefile	/^am__v_CC_ = $(am__v_CC_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CC_	tools/Makefile	/^am__v_CC_ = $(am__v_CC_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CC_0	lib/Makefile	/^am__v_CC_0 = @echo "  CC      " $@;$/;"	m
+am__v_CC_0	tools/Makefile	/^am__v_CC_0 = @echo "  CC      " $@;$/;"	m
+am__v_CC_1	lib/Makefile	/^am__v_CC_1 = $/;"	m
+am__v_CC_1	tools/Makefile	/^am__v_CC_1 = $/;"	m
+am__v_GEN_	Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	lib/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	tools/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_0	Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	lib/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	tools/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_1	Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	lib/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	tools/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_P_	Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	lib/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	tools/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_0	Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	lib/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	tools/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_1	Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	lib/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	tools/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_at_	Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	lib/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	tools/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_0	Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	lib/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	tools/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_1	Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	lib/Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	tools/Makefile	/^am__v_at_1 = $/;"	m
+am__v_lt_	lib/Makefile	/^am__v_lt_ = $(am__v_lt_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_lt_	tools/Makefile	/^am__v_lt_ = $(am__v_lt_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_lt_0	lib/Makefile	/^am__v_lt_0 = --silent$/;"	m
+am__v_lt_0	tools/Makefile	/^am__v_lt_0 = --silent$/;"	m
+am__v_lt_1	lib/Makefile	/^am__v_lt_1 = $/;"	m
+am__v_lt_1	tools/Makefile	/^am__v_lt_1 = $/;"	m
+am__vpath_adj	lib/Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj	tools/Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj_setup	lib/Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am__vpath_adj_setup	tools/Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am_libzbd_la_OBJECTS	lib/Makefile	/^am_libzbd_la_OBJECTS = $(am__objects_1) $(am__objects_2)$/;"	m
+am_zbd_OBJECTS	tools/Makefile	/^am_zbd_OBJECTS = cli\/zbd.$(OBJEXT) cli\/zbd_dump.$(OBJEXT)$/;"	m
+as_fn_append	config.status	/^  as_fn_append ()$/;"	f
+as_fn_append	configure	/^  as_fn_append ()$/;"	f
+as_fn_arith	config.status	/^  as_fn_arith ()$/;"	f
+as_fn_arith	configure	/^  as_fn_arith ()$/;"	f
+as_fn_error	config.status	/^as_fn_error ()$/;"	f
+as_fn_error	configure	/^as_fn_error ()$/;"	f
+as_fn_executable_p	config.status	/^as_fn_executable_p ()$/;"	f
+as_fn_executable_p	configure	/^as_fn_executable_p ()$/;"	f
+as_fn_exit	config.status	/^as_fn_exit ()$/;"	f
+as_fn_exit	configure	/^as_fn_exit ()$/;"	f
+as_fn_failure	configure	/^as_fn_failure () { as_fn_return 1; }$/;"	f
+as_fn_mkdir_p	config.status	/^as_fn_mkdir_p ()$/;"	f
+as_fn_mkdir_p	configure	/^as_fn_mkdir_p ()$/;"	f
+as_fn_ret_failure	configure	/^as_fn_ret_failure () { return 1; }$/;"	f
+as_fn_ret_success	configure	/^as_fn_ret_success () { return 0; }$/;"	f
+as_fn_set_status	config.status	/^as_fn_set_status ()$/;"	f
+as_fn_set_status	configure	/^as_fn_set_status ()$/;"	f
+as_fn_success	configure	/^as_fn_success () { as_fn_return 0; }$/;"	f
+as_fn_unset	config.status	/^as_fn_unset ()$/;"	f
+as_fn_unset	configure	/^as_fn_unset ()$/;"	f
+ax_pthread_config	Makefile	/^ax_pthread_config = $/;"	m
+ax_pthread_config	lib/Makefile	/^ax_pthread_config = $/;"	m
+ax_pthread_config	tools/Makefile	/^ax_pthread_config = $/;"	m
+bin_PROGRAMS	tools/Makefile	/^bin_PROGRAMS = zbd$(EXEEXT) $(am__EXEEXT_1)$/;"	m
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	lib/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	tools/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+blk_zone	lib/zbd.h	42;"	d
+blk_zone_report	lib/zbd.h	50;"	d
+blk_zone_report_v2	lib/zbd.h	/^struct blk_zone_report_v2 {$/;"	s
+blk_zone_v2	lib/zbd.h	/^struct blk_zone_v2 {$/;"	s
+block_size	tools/gui/gzbd.h	/^	int			block_size;$/;"	m	struct:dz
+block_size	tools/gui/gzbd.h	/^	int			block_size;$/;"	m	struct:dz_dev
+block_size	tools/viewer/gzbd_viewer.h	/^	int			block_size;$/;"	m	struct:gzv
+buf	tools/cli/zbd_dump.c	/^	void *buf;$/;"	m	struct:zbd_restore	file:
+build	Makefile	/^build = x86_64-pc-linux-gnu$/;"	m
+build	lib/Makefile	/^build = x86_64-pc-linux-gnu$/;"	m
+build	tools/Makefile	/^build = x86_64-pc-linux-gnu$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_alias	lib/Makefile	/^build_alias = $/;"	m
+build_alias	tools/Makefile	/^build_alias = $/;"	m
+build_cpu	Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	lib/Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	tools/Makefile	/^build_cpu = x86_64$/;"	m
+build_os	Makefile	/^build_os = linux-gnu$/;"	m
+build_os	lib/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	tools/Makefile	/^build_os = linux-gnu$/;"	m
+build_triplet	Makefile	/^build_triplet = x86_64-pc-linux-gnu$/;"	m
+build_triplet	lib/Makefile	/^build_triplet = x86_64-pc-linux-gnu$/;"	m
+build_triplet	tools/Makefile	/^build_triplet = x86_64-pc-linux-gnu$/;"	m
+build_vendor	Makefile	/^build_vendor = pc$/;"	m
+build_vendor	lib/Makefile	/^build_vendor = pc$/;"	m
+build_vendor	tools/Makefile	/^build_vendor = pc$/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+builddir	lib/Makefile	/^builddir = .$/;"	m
+builddir	tools/Makefile	/^builddir = .$/;"	m
+capacity	include/libzbd/zbd.h	/^	unsigned long long	capacity;	\/* Zone capacity *\/$/;"	m	struct:zbd_zone
+capacity	lib/zbd.h	/^	__u64	capacity;       \/* Zone capacity in number of sectors *\/$/;"	m	struct:blk_zone_v2
+capacity	tools/gui/gzbd.h	/^	unsigned long long	capacity;$/;"	m	struct:dz_dev
+cmd	tools/cli/zbd.h	/^	enum zbd_cmd		cmd;$/;"	m	struct:zbd_opts	typeref:enum:zbd_opts::zbd_cmd
+cmd_dialog	tools/gui/gzbd.h	/^	GtkWidget		*cmd_dialog;$/;"	m	struct:dz_dev
+cmd_id	tools/gui/gzbd.h	/^	int			cmd_id;$/;"	m	struct:dz_dev
+cmd_thread	tools/gui/gzbd.h	/^	pthread_t		cmd_thread;$/;"	m	struct:dz_dev
+color_cl	tools/viewer/gzbd_viewer.h	/^	GdkRGBA			color_cl;$/;"	m	struct:gzv
+color_conv	tools/viewer/gzbd_viewer.h	/^	GdkRGBA			color_conv;$/;"	m	struct:gzv
+color_nonw	tools/viewer/gzbd_viewer.h	/^	GdkRGBA			color_nonw;$/;"	m	struct:gzv
+color_oe	tools/viewer/gzbd_viewer.h	/^	GdkRGBA			color_oe;$/;"	m	struct:gzv
+color_of	tools/viewer/gzbd_viewer.h	/^	GdkRGBA			color_of;$/;"	m	struct:gzv
+color_oi	tools/viewer/gzbd_viewer.h	/^	GdkRGBA			color_oi;$/;"	m	struct:gzv
+color_seq	tools/viewer/gzbd_viewer.h	/^	GdkRGBA			color_seq;$/;"	m	struct:gzv
+color_seqw	tools/viewer/gzbd_viewer.h	/^	GdkRGBA			color_seqw;$/;"	m	struct:gzv
+color_text	tools/viewer/gzbd_viewer.h	/^	GdkRGBA			color_text;$/;"	m	struct:gzv
+cond	include/libzbd/zbd.h	/^	unsigned int		cond;		\/* Zone condition *\/$/;"	m	struct:zbd_zone
+cond	lib/zbd.h	/^	__u8	cond;           \/* Zone condition *\/$/;"	m	struct:blk_zone_v2
+conv_color	tools/gui/gzbd.h	/^	GdkRGBA			conv_color;$/;"	m	struct:dz
+da	tools/viewer/gzbd_viewer.h	/^	GtkWidget		*da;$/;"	m	struct:gzv_zone
+data_fd	tools/cli/zbd_dump.c	/^	int		data_fd;$/;"	m	struct:zbd_restore	file:
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	lib/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	tools/Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	lib/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	tools/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+depcomp	lib/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/build-aux\/depcomp$/;"	m
+depcomp	tools/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/build-aux\/depcomp$/;"	m
+dev	tools/gui/gzbd.h	/^	dz_dev_t		dev[DZ_MAX_DEV];$/;"	m	struct:dz
+dev_fd	tools/gui/gzbd.h	/^	int			dev_fd;$/;"	m	struct:dz_dev
+dev_fd	tools/viewer/gzbd_viewer.h	/^	int			dev_fd;$/;"	m	struct:gzv
+dev_info	tools/cli/zbd.h	/^	struct zbd_info		dev_info;	\/* 128 *\/$/;"	m	struct:zbd_dump	typeref:struct:zbd_dump::zbd_info
+dev_info	tools/cli/zbd.h	/^	struct zbd_info		dev_info;$/;"	m	struct:zbd_opts	typeref:struct:zbd_opts::zbd_info
+dev_info	tools/cli/zbd_dump.c	/^	struct zbd_info	dev_info;$/;"	m	struct:zbd_restore	typeref:struct:zbd_restore::zbd_info	file:
+dev_path	tools/cli/zbd.h	/^	char			*dev_path;$/;"	m	struct:zbd_opts
+dev_zones	tools/cli/zbd_dump.c	/^	struct zbd_zone *dev_zones;$/;"	m	struct:zbd_restore	typeref:struct:zbd_restore::zbd_zone	file:
+dist_man8_MANS	tools/Makefile	/^dist_man8_MANS = cli\/zbd.8 $(am__append_2)$/;"	m
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	lib/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	tools/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+dump_path	tools/cli/zbd.h	/^	char			*dump_path;$/;"	m	struct:zbd_opts
+dump_prefix	tools/cli/zbd.h	/^	char			*dump_prefix;$/;"	m	struct:zbd_opts
+dump_zones	tools/cli/zbd_dump.c	/^	struct zbd_zone *dump_zones;$/;"	m	struct:zbd_restore	typeref:struct:zbd_restore::zbd_zone	file:
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	lib/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	tools/Makefile	/^dvidir = ${docdir}$/;"	m
+dz	tools/gui/gzbd.c	/^dz_t dz;$/;"	v
+dz	tools/gui/gzbd.h	/^typedef struct dz {$/;"	s
+dz_close	tools/gui/gzbd.c	/^void dz_close(dz_dev_t *dzd)$/;"	f
+dz_cmd_dialog	tools/gui/gzbd.c	/^static GtkWidget *dz_cmd_dialog(char *msg)$/;"	f	file:
+dz_cmd_exec	tools/gui/gzbd.c	/^int dz_cmd_exec(dz_dev_t *dzd, int cmd_id, char *msg)$/;"	f
+dz_cmd_run	tools/gui/gzbd.c	/^void *dz_cmd_run(void *data)$/;"	f
+dz_dev	tools/gui/gzbd.h	/^typedef struct dz_dev {$/;"	s
+dz_dev_t	tools/gui/gzbd.h	/^} dz_dev_t;$/;"	t	typeref:struct:dz_dev
+dz_dev_zone	tools/gui/gzbd.h	/^typedef struct dz_dev_zone {$/;"	s
+dz_dev_zone_t	tools/gui/gzbd.h	/^} dz_dev_zone_t;$/;"	t	typeref:struct:dz_dev_zone
+dz_if_add_device	tools/gui/gzbd_if.c	/^void dz_if_add_device(char *dev_path)$/;"	f
+dz_if_bytes2blocks	tools/gui/gzbd_if_dev.c	/^static long long dz_if_bytes2blocks(dz_dev_t *dzd, long long bytes)$/;"	f	file:
+dz_if_close_cb	tools/gui/gzbd_if.c	/^static void dz_if_close_cb(GtkWidget *widget, gpointer user_data)$/;"	f	file:
+dz_if_close_page_cb	tools/gui/gzbd_if.c	/^static void dz_if_close_page_cb(GtkWidget *widget, gpointer user_data)$/;"	f	file:
+dz_if_create	tools/gui/gzbd_if.c	/^void dz_if_create(void)$/;"	f
+dz_if_delete_cb	tools/gui/gzbd_if.c	/^static void dz_if_delete_cb(GtkWidget *widget, GdkEvent *event,$/;"	f	file:
+dz_if_destroy	tools/gui/gzbd_if.c	/^void dz_if_destroy(void)$/;"	f
+dz_if_dev_close	tools/gui/gzbd_if_dev.c	/^void dz_if_dev_close(dz_dev_t *dzd)$/;"	f
+dz_if_dev_open	tools/gui/gzbd_if_dev.c	/^dz_dev_t *dz_if_dev_open(char *path)$/;"	f
+dz_if_dev_update	tools/gui/gzbd_if_dev.c	/^void dz_if_dev_update(dz_dev_t *dzd, int do_report_zones)$/;"	f
+dz_if_draw_legend	tools/gui/gzbd_if_dev.c	/^static void dz_if_draw_legend(char *str, const GdkRGBA *color, cairo_t *cr,$/;"	f	file:
+dz_if_exit_cb	tools/gui/gzbd_if.c	/^static void dz_if_exit_cb(GtkWidget *widget, gpointer user_data)$/;"	f	file:
+dz_if_get_device	tools/gui/gzbd_if.c	/^static dz_dev_t *dz_if_get_device(void)$/;"	f	file:
+dz_if_hide_nodev	tools/gui/gzbd_if.c	/^static void dz_if_hide_nodev(void)$/;"	f	file:
+dz_if_open_cb	tools/gui/gzbd_if.c	/^static void dz_if_open_cb(GtkWidget *widget, gpointer user_data)$/;"	f	file:
+dz_if_redraw_zones	tools/gui/gzbd_if_dev.c	/^static void dz_if_redraw_zones(dz_dev_t *dzd)$/;"	f	file:
+dz_if_refresh_zlist	tools/gui/gzbd_if_dev.c	/^static void dz_if_refresh_zlist(dz_dev_t *dzd)$/;"	f	file:
+dz_if_remove_device	tools/gui/gzbd_if.c	/^static void dz_if_remove_device(dz_dev_t *dzd)$/;"	f	file:
+dz_if_resize_cb	tools/gui/gzbd_if.c	/^static gboolean dz_if_resize_cb(GtkWidget *widget, GdkEvent *event,$/;"	f	file:
+dz_if_set_margin	tools/gui/gzbd_if_dev.c	/^static inline void dz_if_set_margin(GtkWidget *widget,$/;"	f	file:
+dz_if_set_selection	tools/gui/gzbd_if_dev.c	/^static void dz_if_set_selection(dz_dev_t *dzd, int zno)$/;"	f	file:
+dz_if_show_nodev	tools/gui/gzbd_if.c	/^static void dz_if_show_nodev(void)$/;"	f	file:
+dz_if_update_zones	tools/gui/gzbd_if_dev.c	/^static void dz_if_update_zones(dz_dev_t *dzd)$/;"	f	file:
+dz_if_val_str	tools/gui/gzbd_if_dev.c	/^static void dz_if_val_str(dz_dev_t *dzd, char *str, long long val)$/;"	f	file:
+dz_if_zblock_set	tools/gui/gzbd_if_dev.c	/^static void dz_if_zblock_set(dz_dev_t *dzd)$/;"	f	file:
+dz_if_zblock_set_cb	tools/gui/gzbd_if_dev.c	/^static void dz_if_zblock_set_cb(GtkEntry *entry, gpointer user_data)$/;"	f	file:
+dz_if_zinfo_filter	tools/gui/gzbd_if_dev.c	/^static struct dz_if_zinfo_filter {$/;"	s	file:
+dz_if_zlist_clear_selection	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_clear_selection(dz_dev_t *dzd)$/;"	f	file:
+dz_if_zlist_entry_visible	tools/gui/gzbd_if_dev.c	/^static gboolean dz_if_zlist_entry_visible(GtkTreeModel *model,$/;"	f	file:
+dz_if_zlist_fill	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_fill(dz_dev_t *dzd)$/;"	f	file:
+dz_if_zlist_filter_cb	tools/gui/gzbd_if_dev.c	/^static gboolean dz_if_zlist_filter_cb(GtkComboBox *button, gpointer user_data)$/;"	f	file:
+dz_if_zlist_print_zone_capacity	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_print_zone_capacity(GtkTreeViewColumn *col,$/;"	f	file:
+dz_if_zlist_print_zone_cond	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_print_zone_cond(GtkTreeViewColumn *col,$/;"	f	file:
+dz_if_zlist_print_zone_len	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_print_zone_len(GtkTreeViewColumn *col,$/;"	f	file:
+dz_if_zlist_print_zone_nonseq	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_print_zone_nonseq(GtkTreeViewColumn *col,$/;"	f	file:
+dz_if_zlist_print_zone_number	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_print_zone_number(GtkTreeViewColumn *col,$/;"	f	file:
+dz_if_zlist_print_zone_rwp_recommended	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_print_zone_rwp_recommended(GtkTreeViewColumn *col,$/;"	f	file:
+dz_if_zlist_print_zone_start	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_print_zone_start(GtkTreeViewColumn *col,$/;"	f	file:
+dz_if_zlist_print_zone_type	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_print_zone_type(GtkTreeViewColumn *col,$/;"	f	file:
+dz_if_zlist_print_zone_wp	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_print_zone_wp(GtkTreeViewColumn *col,$/;"	f	file:
+dz_if_zlist_refresh_cb	tools/gui/gzbd_if_dev.c	/^static gboolean dz_if_zlist_refresh_cb(GtkWidget *widget, gpointer user_data)$/;"	f	file:
+dz_if_zlist_scroll_cb	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_scroll_cb(GtkWidget *widget, gpointer user_data)$/;"	f	file:
+dz_if_zlist_select_cb	tools/gui/gzbd_if_dev.c	/^static gboolean dz_if_zlist_select_cb(GtkTreeSelection *selection,$/;"	f	file:
+dz_if_zlist_set_block_size_cb	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_set_block_size_cb(GtkEntry *entry, gpointer user_data)$/;"	f	file:
+dz_if_zlist_set_selection	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_set_selection(dz_dev_t *dzd, int zno)$/;"	f	file:
+dz_if_zlist_set_use_hexa_cb	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_set_use_hexa_cb(GtkToggleButton *togglebutton,$/;"	f	file:
+dz_if_zlist_set_view_range	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_set_view_range(dz_dev_t *dzd, int center)$/;"	f	file:
+dz_if_zlist_update_range	tools/gui/gzbd_if_dev.c	/^static void dz_if_zlist_update_range(dz_dev_t *dzd)$/;"	f	file:
+dz_if_znum_set	tools/gui/gzbd_if_dev.c	/^static void dz_if_znum_set(dz_dev_t *dzd)$/;"	f	file:
+dz_if_znum_set_cb	tools/gui/gzbd_if_dev.c	/^static void dz_if_znum_set_cb(GtkEntry *entry, gpointer user_data)$/;"	f	file:
+dz_if_zone_close_cb	tools/gui/gzbd_if_dev.c	/^static gboolean dz_if_zone_close_cb(GtkWidget *widget, gpointer user_data)$/;"	f	file:
+dz_if_zone_finish_cb	tools/gui/gzbd_if_dev.c	/^static gboolean dz_if_zone_finish_cb(GtkWidget *widget, gpointer user_data)$/;"	f	file:
+dz_if_zone_op	tools/gui/gzbd_if_dev.c	/^static void dz_if_zone_op(dz_dev_t *dzd, enum zbd_zone_op op,$/;"	f	file:
+dz_if_zone_open_cb	tools/gui/gzbd_if_dev.c	/^static gboolean dz_if_zone_open_cb(GtkWidget *widget, gpointer user_data)$/;"	f	file:
+dz_if_zone_reset_cb	tools/gui/gzbd_if_dev.c	/^static gboolean dz_if_zone_reset_cb(GtkWidget *widget, gpointer user_data)$/;"	f	file:
+dz_if_zones_draw_cb	tools/gui/gzbd_if_dev.c	/^static gboolean dz_if_zones_draw_cb(GtkWidget *widget, cairo_t *cr,$/;"	f	file:
+dz_if_zones_draw_legend_cb	tools/gui/gzbd_if_dev.c	/^static gboolean dz_if_zones_draw_legend_cb(GtkWidget *widget, cairo_t *cr,$/;"	f	file:
+dz_open	tools/gui/gzbd.c	/^dz_dev_t *dz_open(char *path)$/;"	f
+dz_process_signal	tools/gui/gzbd.c	/^static gboolean dz_process_signal(GIOChannel *source,$/;"	f	file:
+dz_report_zones	tools/gui/gzbd.c	/^static int dz_report_zones(dz_dev_t *dzd)$/;"	f	file:
+dz_set_signal_handlers	tools/gui/gzbd.c	/^static void dz_set_signal_handlers(void)$/;"	f	file:
+dz_sig_handler	tools/gui/gzbd.c	/^static void dz_sig_handler(int sig)$/;"	f	file:
+dz_t	tools/gui/gzbd.h	/^} dz_t;$/;"	t	typeref:struct:dz
+dz_usec	tools/gui/gzbd.h	/^static inline unsigned long long dz_usec(void)$/;"	f
+dz_zone_operation	tools/gui/gzbd.c	/^static int dz_zone_operation(dz_dev_t *dzd)$/;"	f	file:
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	lib/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	tools/Makefile	/^exec_prefix = ${prefix}$/;"	m
+flags	include/libzbd/zbd.h	/^	unsigned int		flags;		\/* Zone state flags *\/$/;"	m	struct:zbd_zone
+flags	lib/zbd.h	/^	__u32	flags;$/;"	m	struct:blk_zone_report_v2
+flags	tools/cli/zbd.c	/^	int flags;$/;"	m	struct:zbd_action	file:
+func_add_hook	build-aux/ltmain.sh	/^func_add_hook ()$/;"	f
+func_add_hook	libtool	/^func_add_hook ()$/;"	f
+func_append	build-aux/ltmain.sh	/^  func_append ()$/;"	f
+func_append	libtool	/^  func_append ()$/;"	f
+func_append_quoted	build-aux/ltmain.sh	/^  func_append_quoted ()$/;"	f
+func_append_quoted	libtool	/^  func_append_quoted ()$/;"	f
+func_append_uniq	build-aux/ltmain.sh	/^func_append_uniq ()$/;"	f
+func_append_uniq	libtool	/^func_append_uniq ()$/;"	f
+func_arith	build-aux/ltmain.sh	/^  func_arith ()$/;"	f
+func_arith	libtool	/^  func_arith ()$/;"	f
+func_at_file	build-aux/ar-lib	/^func_at_file ()$/;"	f
+func_cc_basename	config.status	/^func_cc_basename ()$/;"	f
+func_cc_basename	configure	/^func_cc_basename ()$/;"	f
+func_cc_basename	libtool	/^func_cc_basename ()$/;"	f
+func_check_prog_grep	build-aux/ltmain.sh	/^  func_check_prog_grep ()$/;"	f
+func_check_prog_grep	libtool	/^  func_check_prog_grep ()$/;"	f
+func_check_prog_sed	build-aux/ltmain.sh	/^  func_check_prog_sed ()$/;"	f
+func_check_prog_sed	libtool	/^  func_check_prog_sed ()$/;"	f
+func_check_version_match	build-aux/ltmain.sh	/^func_check_version_match ()$/;"	f
+func_check_version_match	libtool	/^func_check_version_match ()$/;"	f
+func_cl_dashL	build-aux/compile	/^func_cl_dashL ()$/;"	f
+func_cl_dashl	build-aux/compile	/^func_cl_dashl ()$/;"	f
+func_cl_wrapper	build-aux/compile	/^func_cl_wrapper ()$/;"	f
+func_config	build-aux/ltmain.sh	/^func_config ()$/;"	f
+func_config	libtool	/^func_config ()$/;"	f
+func_convert_core_file_wine_to_w32	build-aux/ltmain.sh	/^func_convert_core_file_wine_to_w32 ()$/;"	f
+func_convert_core_file_wine_to_w32	libtool	/^func_convert_core_file_wine_to_w32 ()$/;"	f
+func_convert_core_msys_to_w32	build-aux/ltmain.sh	/^func_convert_core_msys_to_w32 ()$/;"	f
+func_convert_core_msys_to_w32	libtool	/^func_convert_core_msys_to_w32 ()$/;"	f
+func_convert_core_path_wine_to_w32	build-aux/ltmain.sh	/^func_convert_core_path_wine_to_w32 ()$/;"	f
+func_convert_core_path_wine_to_w32	libtool	/^func_convert_core_path_wine_to_w32 ()$/;"	f
+func_convert_file_check	build-aux/ltmain.sh	/^func_convert_file_check ()$/;"	f
+func_convert_file_check	libtool	/^func_convert_file_check ()$/;"	f
+func_convert_file_cygwin_to_w32	build-aux/ltmain.sh	/^func_convert_file_cygwin_to_w32 ()$/;"	f
+func_convert_file_cygwin_to_w32	libtool	/^func_convert_file_cygwin_to_w32 ()$/;"	f
+func_convert_file_msys_to_cygwin	build-aux/ltmain.sh	/^func_convert_file_msys_to_cygwin ()$/;"	f
+func_convert_file_msys_to_cygwin	libtool	/^func_convert_file_msys_to_cygwin ()$/;"	f
+func_convert_file_msys_to_w32	build-aux/ltmain.sh	/^func_convert_file_msys_to_w32 ()$/;"	f
+func_convert_file_msys_to_w32	libtool	/^func_convert_file_msys_to_w32 ()$/;"	f
+func_convert_file_nix_to_cygwin	build-aux/ltmain.sh	/^func_convert_file_nix_to_cygwin ()$/;"	f
+func_convert_file_nix_to_cygwin	libtool	/^func_convert_file_nix_to_cygwin ()$/;"	f
+func_convert_file_nix_to_w32	build-aux/ltmain.sh	/^func_convert_file_nix_to_w32 ()$/;"	f
+func_convert_file_nix_to_w32	libtool	/^func_convert_file_nix_to_w32 ()$/;"	f
+func_convert_file_noop	build-aux/ltmain.sh	/^func_convert_file_noop ()$/;"	f
+func_convert_file_noop	libtool	/^func_convert_file_noop ()$/;"	f
+func_convert_path_check	build-aux/ltmain.sh	/^func_convert_path_check ()$/;"	f
+func_convert_path_check	libtool	/^func_convert_path_check ()$/;"	f
+func_convert_path_cygwin_to_w32	build-aux/ltmain.sh	/^func_convert_path_cygwin_to_w32 ()$/;"	f
+func_convert_path_cygwin_to_w32	libtool	/^func_convert_path_cygwin_to_w32 ()$/;"	f
+func_convert_path_front_back_pathsep	build-aux/ltmain.sh	/^func_convert_path_front_back_pathsep ()$/;"	f
+func_convert_path_front_back_pathsep	libtool	/^func_convert_path_front_back_pathsep ()$/;"	f
+func_convert_path_msys_to_cygwin	build-aux/ltmain.sh	/^func_convert_path_msys_to_cygwin ()$/;"	f
+func_convert_path_msys_to_cygwin	libtool	/^func_convert_path_msys_to_cygwin ()$/;"	f
+func_convert_path_msys_to_w32	build-aux/ltmain.sh	/^func_convert_path_msys_to_w32 ()$/;"	f
+func_convert_path_msys_to_w32	libtool	/^func_convert_path_msys_to_w32 ()$/;"	f
+func_convert_path_nix_to_cygwin	build-aux/ltmain.sh	/^func_convert_path_nix_to_cygwin ()$/;"	f
+func_convert_path_nix_to_cygwin	libtool	/^func_convert_path_nix_to_cygwin ()$/;"	f
+func_convert_path_nix_to_w32	build-aux/ltmain.sh	/^func_convert_path_nix_to_w32 ()$/;"	f
+func_convert_path_nix_to_w32	libtool	/^func_convert_path_nix_to_w32 ()$/;"	f
+func_convert_path_noop	build-aux/ltmain.sh	/^func_convert_path_noop ()$/;"	f
+func_convert_path_noop	libtool	/^func_convert_path_noop ()$/;"	f
+func_cygming_dll_for_implib	build-aux/ltmain.sh	/^func_cygming_dll_for_implib ()$/;"	f
+func_cygming_dll_for_implib	libtool	/^func_cygming_dll_for_implib ()$/;"	f
+func_cygming_dll_for_implib_fallback	build-aux/ltmain.sh	/^func_cygming_dll_for_implib_fallback ()$/;"	f
+func_cygming_dll_for_implib_fallback	libtool	/^func_cygming_dll_for_implib_fallback ()$/;"	f
+func_cygming_dll_for_implib_fallback_core	build-aux/ltmain.sh	/^func_cygming_dll_for_implib_fallback_core ()$/;"	f
+func_cygming_dll_for_implib_fallback_core	libtool	/^func_cygming_dll_for_implib_fallback_core ()$/;"	f
+func_cygming_gnu_implib_p	build-aux/ltmain.sh	/^func_cygming_gnu_implib_p ()$/;"	f
+func_cygming_gnu_implib_p	libtool	/^func_cygming_gnu_implib_p ()$/;"	f
+func_cygming_ms_implib_p	build-aux/ltmain.sh	/^func_cygming_ms_implib_p ()$/;"	f
+func_cygming_ms_implib_p	libtool	/^func_cygming_ms_implib_p ()$/;"	f
+func_cygpath	build-aux/ltmain.sh	/^func_cygpath ()$/;"	f
+func_cygpath	libtool	/^func_cygpath ()$/;"	f
+func_dll_def_p	build-aux/ltmain.sh	/^func_dll_def_p ()$/;"	f
+func_dll_def_p	libtool	/^func_dll_def_p ()$/;"	f
+func_echo	build-aux/ltmain.sh	/^func_echo ()$/;"	f
+func_echo	libtool	/^func_echo ()$/;"	f
+func_echo_all	build-aux/ltmain.sh	/^func_echo_all ()$/;"	f
+func_echo_all	configure	/^func_echo_all ()$/;"	f
+func_echo_all	libtool	/^func_echo_all ()$/;"	f
+func_echo_infix_1	build-aux/ltmain.sh	/^func_echo_infix_1 ()$/;"	f
+func_echo_infix_1	libtool	/^func_echo_infix_1 ()$/;"	f
+func_emit_cwrapperexe_src	build-aux/ltmain.sh	/^func_emit_cwrapperexe_src ()$/;"	f
+func_emit_cwrapperexe_src	libtool	/^func_emit_cwrapperexe_src ()$/;"	f
+func_emit_wrapper	build-aux/ltmain.sh	/^func_emit_wrapper ()$/;"	f
+func_emit_wrapper	libtool	/^func_emit_wrapper ()$/;"	f
+func_enable_tag	build-aux/ltmain.sh	/^func_enable_tag ()$/;"	f
+func_enable_tag	libtool	/^func_enable_tag ()$/;"	f
+func_error	build-aux/ar-lib	/^func_error ()$/;"	f
+func_error	build-aux/ltmain.sh	/^func_error ()$/;"	f
+func_error	libtool	/^func_error ()$/;"	f
+func_exec_program	build-aux/ltmain.sh	/^func_exec_program ()$/;"	f
+func_exec_program	libtool	/^func_exec_program ()$/;"	f
+func_exec_program	tools/zbd	/^func_exec_program ()$/;"	f
+func_exec_program_core	build-aux/ltmain.sh	/^func_exec_program_core ()$/;"	f
+func_exec_program_core	libtool	/^func_exec_program_core ()$/;"	f
+func_exec_program_core	tools/zbd	/^func_exec_program_core ()$/;"	f
+func_executable_p	build-aux/ltmain.sh	/^func_executable_p ()$/;"	f
+func_executable_p	libtool	/^func_executable_p ()$/;"	f
+func_execute_cmds	build-aux/ltmain.sh	/^func_execute_cmds ()$/;"	f
+func_execute_cmds	libtool	/^func_execute_cmds ()$/;"	f
+func_extract_an_archive	build-aux/ltmain.sh	/^func_extract_an_archive ()$/;"	f
+func_extract_an_archive	libtool	/^func_extract_an_archive ()$/;"	f
+func_extract_archives	build-aux/ltmain.sh	/^func_extract_archives ()$/;"	f
+func_extract_archives	libtool	/^func_extract_archives ()$/;"	f
+func_fallback_echo	build-aux/ltmain.sh	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	config.status	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	configure	/^  func_fallback_echo ()$/;"	f
+func_fallback_echo	configure	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	libtool	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	tools/zbd	/^func_fallback_echo ()$/;"	f
+func_fatal_configuration	build-aux/ltmain.sh	/^func_fatal_configuration ()$/;"	f
+func_fatal_configuration	libtool	/^func_fatal_configuration ()$/;"	f
+func_fatal_error	build-aux/ltmain.sh	/^func_fatal_error ()$/;"	f
+func_fatal_error	libtool	/^func_fatal_error ()$/;"	f
+func_fatal_help	build-aux/ltmain.sh	/^func_fatal_help ()$/;"	f
+func_fatal_help	libtool	/^func_fatal_help ()$/;"	f
+func_features	build-aux/ltmain.sh	/^func_features ()$/;"	f
+func_features	libtool	/^func_features ()$/;"	f
+func_file_conv	build-aux/ar-lib	/^func_file_conv ()$/;"	f
+func_file_conv	build-aux/compile	/^func_file_conv ()$/;"	f
+func_generate_dlsyms	build-aux/ltmain.sh	/^func_generate_dlsyms ()$/;"	f
+func_generate_dlsyms	libtool	/^func_generate_dlsyms ()$/;"	f
+func_generated_by_libtool_p	build-aux/ltmain.sh	/^func_generated_by_libtool_p ()$/;"	f
+func_generated_by_libtool_p	libtool	/^func_generated_by_libtool_p ()$/;"	f
+func_grep	build-aux/ltmain.sh	/^func_grep ()$/;"	f
+func_grep	libtool	/^func_grep ()$/;"	f
+func_help	build-aux/ltmain.sh	/^func_help ()$/;"	f
+func_help	libtool	/^func_help ()$/;"	f
+func_hookable	build-aux/ltmain.sh	/^func_hookable ()$/;"	f
+func_hookable	libtool	/^func_hookable ()$/;"	f
+func_infer_tag	build-aux/ltmain.sh	/^func_infer_tag ()$/;"	f
+func_infer_tag	libtool	/^func_infer_tag ()$/;"	f
+func_init_to_host_path_cmd	build-aux/ltmain.sh	/^func_init_to_host_path_cmd ()$/;"	f
+func_init_to_host_path_cmd	libtool	/^func_init_to_host_path_cmd ()$/;"	f
+func_lalib_p	build-aux/ltmain.sh	/^func_lalib_p ()$/;"	f
+func_lalib_p	libtool	/^func_lalib_p ()$/;"	f
+func_lalib_unsafe_p	build-aux/ltmain.sh	/^func_lalib_unsafe_p ()$/;"	f
+func_lalib_unsafe_p	libtool	/^func_lalib_unsafe_p ()$/;"	f
+func_len	build-aux/ltmain.sh	/^  func_len ()$/;"	f
+func_len	libtool	/^  func_len ()$/;"	f
+func_lo2o	build-aux/ltmain.sh	/^  func_lo2o ()$/;"	f
+func_lo2o	libtool	/^  func_lo2o ()$/;"	f
+func_lt_dump_args	build-aux/ltmain.sh	/^func_lt_dump_args ()$/;"	f
+func_lt_dump_args	libtool	/^func_lt_dump_args ()$/;"	f
+func_lt_dump_args	tools/zbd	/^func_lt_dump_args ()$/;"	f
+func_lt_ver	build-aux/ltmain.sh	/^func_lt_ver ()$/;"	f
+func_lt_ver	libtool	/^func_lt_ver ()$/;"	f
+func_ltwrapper_executable_p	build-aux/ltmain.sh	/^func_ltwrapper_executable_p ()$/;"	f
+func_ltwrapper_executable_p	libtool	/^func_ltwrapper_executable_p ()$/;"	f
+func_ltwrapper_p	build-aux/ltmain.sh	/^func_ltwrapper_p ()$/;"	f
+func_ltwrapper_p	libtool	/^func_ltwrapper_p ()$/;"	f
+func_ltwrapper_script_p	build-aux/ltmain.sh	/^func_ltwrapper_script_p ()$/;"	f
+func_ltwrapper_script_p	libtool	/^func_ltwrapper_script_p ()$/;"	f
+func_ltwrapper_scriptname	build-aux/ltmain.sh	/^func_ltwrapper_scriptname ()$/;"	f
+func_ltwrapper_scriptname	libtool	/^func_ltwrapper_scriptname ()$/;"	f
+func_missing_arg	build-aux/ltmain.sh	/^func_missing_arg ()$/;"	f
+func_missing_arg	libtool	/^func_missing_arg ()$/;"	f
+func_mkdir_p	build-aux/ltmain.sh	/^func_mkdir_p ()$/;"	f
+func_mkdir_p	libtool	/^func_mkdir_p ()$/;"	f
+func_mktempdir	build-aux/ltmain.sh	/^func_mktempdir ()$/;"	f
+func_mktempdir	libtool	/^func_mktempdir ()$/;"	f
+func_mode_compile	build-aux/ltmain.sh	/^func_mode_compile ()$/;"	f
+func_mode_compile	libtool	/^func_mode_compile ()$/;"	f
+func_mode_execute	build-aux/ltmain.sh	/^func_mode_execute ()$/;"	f
+func_mode_execute	libtool	/^func_mode_execute ()$/;"	f
+func_mode_finish	build-aux/ltmain.sh	/^func_mode_finish ()$/;"	f
+func_mode_finish	libtool	/^func_mode_finish ()$/;"	f
+func_mode_help	build-aux/ltmain.sh	/^func_mode_help ()$/;"	f
+func_mode_help	libtool	/^func_mode_help ()$/;"	f
+func_mode_install	build-aux/ltmain.sh	/^func_mode_install ()$/;"	f
+func_mode_install	libtool	/^func_mode_install ()$/;"	f
+func_mode_link	build-aux/ltmain.sh	/^func_mode_link ()$/;"	f
+func_mode_link	libtool	/^func_mode_link ()$/;"	f
+func_mode_uninstall	build-aux/ltmain.sh	/^func_mode_uninstall ()$/;"	f
+func_mode_uninstall	libtool	/^func_mode_uninstall ()$/;"	f
+func_munge_path_list	config.status	/^func_munge_path_list ()$/;"	f
+func_munge_path_list	configure	/^func_munge_path_list ()$/;"	f
+func_munge_path_list	libtool	/^func_munge_path_list ()$/;"	f
+func_normal_abspath	build-aux/ltmain.sh	/^func_normal_abspath ()$/;"	f
+func_normal_abspath	libtool	/^func_normal_abspath ()$/;"	f
+func_notquiet	build-aux/ltmain.sh	/^func_notquiet ()$/;"	f
+func_notquiet	libtool	/^func_notquiet ()$/;"	f
+func_options	build-aux/ltmain.sh	/^func_options ()$/;"	f
+func_options	libtool	/^func_options ()$/;"	f
+func_options_prep	build-aux/ltmain.sh	/^func_options_prep ()$/;"	f
+func_options_prep	libtool	/^func_options_prep ()$/;"	f
+func_parse_lt_options	build-aux/ltmain.sh	/^func_parse_lt_options ()$/;"	f
+func_parse_lt_options	libtool	/^func_parse_lt_options ()$/;"	f
+func_parse_lt_options	tools/zbd	/^func_parse_lt_options ()$/;"	f
+func_parse_options	build-aux/ltmain.sh	/^func_parse_options ()$/;"	f
+func_parse_options	libtool	/^func_parse_options ()$/;"	f
+func_path_progs	build-aux/ltmain.sh	/^func_path_progs ()$/;"	f
+func_path_progs	libtool	/^func_path_progs ()$/;"	f
+func_quote_for_eval	build-aux/ltmain.sh	/^func_quote_for_eval ()$/;"	f
+func_quote_for_eval	libtool	/^func_quote_for_eval ()$/;"	f
+func_quote_for_expand	build-aux/ltmain.sh	/^func_quote_for_expand ()$/;"	f
+func_quote_for_expand	libtool	/^func_quote_for_expand ()$/;"	f
+func_relative_path	build-aux/ltmain.sh	/^func_relative_path ()$/;"	f
+func_relative_path	libtool	/^func_relative_path ()$/;"	f
+func_remove_hook	build-aux/ltmain.sh	/^func_remove_hook ()$/;"	f
+func_remove_hook	libtool	/^func_remove_hook ()$/;"	f
+func_replace_sysroot	build-aux/ltmain.sh	/^func_replace_sysroot ()$/;"	f
+func_replace_sysroot	libtool	/^func_replace_sysroot ()$/;"	f
+func_require_term_colors	build-aux/ltmain.sh	/^func_require_term_colors ()$/;"	f
+func_require_term_colors	libtool	/^func_require_term_colors ()$/;"	f
+func_resolve_sysroot	build-aux/ltmain.sh	/^func_resolve_sysroot ()$/;"	f
+func_resolve_sysroot	libtool	/^func_resolve_sysroot ()$/;"	f
+func_run_hooks	build-aux/ltmain.sh	/^func_run_hooks ()$/;"	f
+func_run_hooks	libtool	/^func_run_hooks ()$/;"	f
+func_show_eval	build-aux/ltmain.sh	/^func_show_eval ()$/;"	f
+func_show_eval	libtool	/^func_show_eval ()$/;"	f
+func_show_eval_locale	build-aux/ltmain.sh	/^func_show_eval_locale ()$/;"	f
+func_show_eval_locale	libtool	/^func_show_eval_locale ()$/;"	f
+func_sort_ver	build-aux/ltmain.sh	/^func_sort_ver ()$/;"	f
+func_sort_ver	libtool	/^func_sort_ver ()$/;"	f
+func_source	build-aux/ltmain.sh	/^func_source ()$/;"	f
+func_source	libtool	/^func_source ()$/;"	f
+func_split_equals	build-aux/ltmain.sh	/^  func_split_equals ()$/;"	f
+func_split_equals	libtool	/^  func_split_equals ()$/;"	f
+func_split_short_opt	build-aux/ltmain.sh	/^  func_split_short_opt ()$/;"	f
+func_split_short_opt	libtool	/^  func_split_short_opt ()$/;"	f
+func_stripname	build-aux/ltmain.sh	/^  func_stripname ()$/;"	f
+func_stripname	libtool	/^  func_stripname ()$/;"	f
+func_suncc_cstd_abi	build-aux/ltmain.sh	/^func_suncc_cstd_abi ()$/;"	f
+func_suncc_cstd_abi	libtool	/^func_suncc_cstd_abi ()$/;"	f
+func_to_host_file	build-aux/ltmain.sh	/^func_to_host_file ()$/;"	f
+func_to_host_file	libtool	/^func_to_host_file ()$/;"	f
+func_to_host_path	build-aux/ltmain.sh	/^func_to_host_path ()$/;"	f
+func_to_host_path	libtool	/^func_to_host_path ()$/;"	f
+func_to_tool_file	build-aux/ltmain.sh	/^func_to_tool_file ()$/;"	f
+func_to_tool_file	libtool	/^func_to_tool_file ()$/;"	f
+func_tr_sh	build-aux/ltmain.sh	/^func_tr_sh ()$/;"	f
+func_tr_sh	libtool	/^func_tr_sh ()$/;"	f
+func_usage	build-aux/ltmain.sh	/^func_usage ()$/;"	f
+func_usage	libtool	/^func_usage ()$/;"	f
+func_usage_message	build-aux/ltmain.sh	/^func_usage_message ()$/;"	f
+func_usage_message	libtool	/^func_usage_message ()$/;"	f
+func_validate_options	build-aux/ltmain.sh	/^func_validate_options ()$/;"	f
+func_validate_options	libtool	/^func_validate_options ()$/;"	f
+func_verbose	build-aux/ltmain.sh	/^func_verbose ()$/;"	f
+func_verbose	libtool	/^func_verbose ()$/;"	f
+func_version	build-aux/ltmain.sh	/^func_version ()$/;"	f
+func_version	libtool	/^func_version ()$/;"	f
+func_warn_and_continue	build-aux/ltmain.sh	/^func_warn_and_continue ()$/;"	f
+func_warn_and_continue	libtool	/^func_warn_and_continue ()$/;"	f
+func_warning	build-aux/ltmain.sh	/^func_warning ()$/;"	f
+func_warning	libtool	/^func_warning ()$/;"	f
+func_win32_import_lib_p	build-aux/ltmain.sh	/^func_win32_import_lib_p ()$/;"	f
+func_win32_import_lib_p	libtool	/^func_win32_import_lib_p ()$/;"	f
+func_win32_libid	build-aux/ltmain.sh	/^func_win32_libid ()$/;"	f
+func_win32_libid	libtool	/^func_win32_libid ()$/;"	f
+func_write_libtool_object	build-aux/ltmain.sh	/^func_write_libtool_object ()$/;"	f
+func_write_libtool_object	libtool	/^func_write_libtool_object ()$/;"	f
+func_xform	build-aux/ltmain.sh	/^  func_xform ()$/;"	f
+func_xform	libtool	/^  func_xform ()$/;"	f
+give_advice	build-aux/missing	/^give_advice ()$/;"	f
+grid_zno_first	tools/viewer/gzbd_viewer.h	/^	unsigned int		grid_zno_first;$/;"	m	struct:gzv
+grid_zones	tools/viewer/gzbd_viewer.h	/^	struct gzv_zone		*grid_zones;$/;"	m	struct:gzv	typeref:struct:gzv::gzv_zone
+gzbd_LINK	tools/Makefile	/^gzbd_LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+gzbd_OBJECTS	tools/Makefile	/^gzbd_OBJECTS = $(am_gzbd_OBJECTS)$/;"	m
+gzbd_viewer_LINK	tools/Makefile	/^gzbd_viewer_LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+gzbd_viewer_OBJECTS	tools/Makefile	/^gzbd_viewer_OBJECTS = $(am_gzbd_viewer_OBJECTS)$/;"	m
+gzv	tools/viewer/gzbd_viewer.c	/^struct gzv gzv;$/;"	v	typeref:struct:gzv
+gzv	tools/viewer/gzbd_viewer.h	/^struct gzv {$/;"	s
+gzv_close	tools/viewer/gzbd_viewer.c	/^static void gzv_close(void)$/;"	f	file:
+gzv_fix_zone_values	tools/viewer/gzbd_viewer.c	/^static void gzv_fix_zone_values(struct zbd_zone *zbdz, int nrz)$/;"	f	file:
+gzv_if_create	tools/viewer/gzbd_viewer_if.c	/^void gzv_if_create(void)$/;"	f
+gzv_if_delete_cb	tools/viewer/gzbd_viewer_if.c	/^static void gzv_if_delete_cb(GtkWidget *widget, GdkEvent *event,$/;"	f	file:
+gzv_if_destroy	tools/viewer/gzbd_viewer_if.c	/^void gzv_if_destroy(void)$/;"	f
+gzv_if_draw_legend	tools/viewer/gzbd_viewer_if.c	/^static void gzv_if_draw_legend(char *str, const GdkRGBA *color, cairo_t *cr,$/;"	f	file:
+gzv_if_draw_legend_cb	tools/viewer/gzbd_viewer_if.c	/^static gboolean gzv_if_draw_legend_cb(GtkWidget *widget, cairo_t *cr,$/;"	f	file:
+gzv_if_get_da_size	tools/viewer/gzbd_viewer_if.c	/^static void gzv_if_get_da_size(unsigned int *w, unsigned int *h)$/;"	f	file:
+gzv_if_resize_cb	tools/viewer/gzbd_viewer_if.c	/^static gboolean gzv_if_resize_cb(GtkWidget *widget, GdkEvent *event,$/;"	f	file:
+gzv_if_scroll_cb	tools/viewer/gzbd_viewer_if.c	/^static gboolean gzv_if_scroll_cb(GtkWidget *widget, GdkEventScroll *scroll,$/;"	f	file:
+gzv_if_scroll_value_cb	tools/viewer/gzbd_viewer_if.c	/^static gboolean gzv_if_scroll_value_cb(GtkWidget *widget,$/;"	f	file:
+gzv_if_timer_cb	tools/viewer/gzbd_viewer_if.c	/^static gboolean gzv_if_timer_cb(gpointer user_data)$/;"	f	file:
+gzv_if_update	tools/viewer/gzbd_viewer_if.c	/^static void gzv_if_update(void)$/;"	f	file:
+gzv_if_zone_draw_cb	tools/viewer/gzbd_viewer_if.c	/^static gboolean gzv_if_zone_draw_cb(GtkWidget *widget, cairo_t *cr,$/;"	f	file:
+gzv_if_zone_draw_nonwritable	tools/viewer/gzbd_viewer_if.c	/^static void gzv_if_zone_draw_nonwritable(struct zbd_zone *zbdz, cairo_t *cr,$/;"	f	file:
+gzv_if_zone_draw_num	tools/viewer/gzbd_viewer_if.c	/^static void gzv_if_zone_draw_num(struct gzv_zone *zone, cairo_t *cr,$/;"	f	file:
+gzv_if_zone_draw_written	tools/viewer/gzbd_viewer_if.c	/^static void gzv_if_zone_draw_written(struct zbd_zone *zbdz, cairo_t *cr,$/;"	f	file:
+gzv_msec	tools/viewer/gzbd_viewer.h	/^static inline unsigned long long gzv_msec(void)$/;"	f
+gzv_open	tools/viewer/gzbd_viewer.c	/^static int gzv_open(void)$/;"	f	file:
+gzv_process_signal	tools/viewer/gzbd_viewer.c	/^static gboolean gzv_process_signal(GIOChannel *source,$/;"	f	file:
+gzv_report_zones	tools/viewer/gzbd_viewer.c	/^int gzv_report_zones(unsigned int zno_start, unsigned int nr_zones)$/;"	f
+gzv_set_signal_handlers	tools/viewer/gzbd_viewer.c	/^static void gzv_set_signal_handlers(void)$/;"	f	file:
+gzv_set_zone_tooltip	tools/viewer/gzbd_viewer_if.c	/^static void gzv_set_zone_tooltip(struct gzv_zone *zone)$/;"	f	file:
+gzv_sig_handler	tools/viewer/gzbd_viewer.c	/^static void gzv_sig_handler(int sig)$/;"	f	file:
+gzv_zone	tools/viewer/gzbd_viewer.h	/^struct gzv_zone {$/;"	s
+host	Makefile	/^host = x86_64-pc-linux-gnu$/;"	m
+host	lib/Makefile	/^host = x86_64-pc-linux-gnu$/;"	m
+host	tools/Makefile	/^host = x86_64-pc-linux-gnu$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_alias	lib/Makefile	/^host_alias = $/;"	m
+host_alias	tools/Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	lib/Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	tools/Makefile	/^host_cpu = x86_64$/;"	m
+host_os	Makefile	/^host_os = linux-gnu$/;"	m
+host_os	lib/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	tools/Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	Makefile	/^host_triplet = x86_64-pc-linux-gnu$/;"	m
+host_triplet	lib/Makefile	/^host_triplet = x86_64-pc-linux-gnu$/;"	m
+host_triplet	tools/Makefile	/^host_triplet = x86_64-pc-linux-gnu$/;"	m
+host_vendor	Makefile	/^host_vendor = pc$/;"	m
+host_vendor	lib/Makefile	/^host_vendor = pc$/;"	m
+host_vendor	tools/Makefile	/^host_vendor = pc$/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	lib/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	tools/Makefile	/^htmldir = ${docdir}$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	lib/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	tools/Makefile	/^includedir = ${prefix}\/include$/;"	m
+info	tools/gui/gzbd.h	/^	struct zbd_info		info;$/;"	m	struct:dz_dev	typeref:struct:dz_dev::zbd_info
+info	tools/gui/gzbd.h	/^	struct zbd_zone		info;$/;"	m	struct:dz_dev_zone	typeref:struct:dz_dev_zone::zbd_zone
+info	tools/viewer/gzbd_viewer.h	/^	struct zbd_info		info;$/;"	m	struct:gzv	typeref:struct:gzv::zbd_info
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	lib/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	tools/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/install-sh$/;"	m
+install_sh	lib/Makefile	/^install_sh = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/install-sh$/;"	m
+install_sh	tools/Makefile	/^install_sh = ${SHELL} \/home\/vldb\/Samsung\/libzbd\/build-aux\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	lib/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	tools/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	lib/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	tools/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	lib/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	tools/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+interval	tools/gui/gzbd.h	/^	int			interval;$/;"	m	struct:dz
+last_refresh	tools/viewer/gzbd_viewer.h	/^	unsigned long long	last_refresh;$/;"	m	struct:gzv
+lblock_size	include/libzbd/zbd.h	/^	unsigned int		lblock_size;$/;"	m	struct:zbd_info
+len	include/libzbd/zbd.h	/^	unsigned long long	len;		\/* Zone length *\/$/;"	m	struct:zbd_zone
+len	lib/zbd.h	/^	__u64	len;            \/* Zone length in number of sectors *\/$/;"	m	struct:blk_zone_v2
+len	tools/cli/zbd.h	/^	long long		len;$/;"	m	struct:zbd_opts
+lib_LTLIBRARIES	lib/Makefile	/^lib_LTLIBRARIES = libzbd.la$/;"	m
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	lib/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	tools/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	lib/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	tools/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libtool_options_prep	build-aux/ltmain.sh	/^libtool_options_prep ()$/;"	f
+libtool_options_prep	libtool	/^libtool_options_prep ()$/;"	f
+libtool_parse_options	build-aux/ltmain.sh	/^libtool_parse_options ()$/;"	f
+libtool_parse_options	libtool	/^libtool_parse_options ()$/;"	f
+libtool_validate_options	build-aux/ltmain.sh	/^libtool_validate_options ()$/;"	f
+libtool_validate_options	libtool	/^libtool_validate_options ()$/;"	f
+libzbd_la_CFLAGS	lib/Makefile	/^libzbd_la_CFLAGS = $(AM_CFLAGS) -fPIC$/;"	m
+libzbd_la_DEPENDENCIES	lib/Makefile	/^libzbd_la_DEPENDENCIES = exports$/;"	m
+libzbd_la_LDFLAGS	lib/Makefile	/^libzbd_la_LDFLAGS = \\$/;"	m
+libzbd_la_LIBADD	lib/Makefile	/^libzbd_la_LIBADD =$/;"	m
+libzbd_la_LINK	lib/Makefile	/^libzbd_la_LINK = $(LIBTOOL) $(AM_V_lt) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m
+libzbd_la_OBJECTS	lib/Makefile	/^libzbd_la_OBJECTS = $(am_libzbd_la_OBJECTS)$/;"	m
+libzbd_la_SOURCES	lib/Makefile	/^libzbd_la_SOURCES = $(CFILES) $(HFILES)$/;"	m
+libzbd_ldadd	tools/Makefile	/^libzbd_ldadd = $(top_builddir)\/lib\/libzbd.la$/;"	m
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	lib/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	tools/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	lib/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	tools/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+main	build-aux/config.guess	/^		main()$/;"	f
+main	build-aux/config.guess	/^	main ()$/;"	f
+main	tools/cli/zbd.c	/^int main(int argc, char **argv)$/;"	f
+main	tools/gui/gzbd.c	/^int main(int argc, char **argv)$/;"	f
+main	tools/viewer/gzbd_viewer.c	/^int main(int argc, char **argv)$/;"	f
+make_dummy_depfile	build-aux/depcomp	/^make_dummy_depfile ()$/;"	f
+man8dir	tools/Makefile	/^man8dir = $(mandir)\/man8$/;"	m
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	lib/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	tools/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+max_nr_active_zones	include/libzbd/zbd.h	/^	unsigned int		max_nr_active_zones;$/;"	m	struct:zbd_info
+max_nr_open_zones	include/libzbd/zbd.h	/^	unsigned int		max_nr_open_zones;$/;"	m	struct:zbd_info
+max_nr_zones	tools/gui/gzbd.h	/^	unsigned int		max_nr_zones;$/;"	m	struct:dz_dev
+max_row	tools/viewer/gzbd_viewer.h	/^	unsigned int		max_row;$/;"	m	struct:gzv
+mkdir_p	Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	lib/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	tools/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	lib/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	tools/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+model	include/libzbd/zbd.h	/^	unsigned int		model;$/;"	m	struct:zbd_info
+no	tools/gui/gzbd.h	/^	int			no;$/;"	m	struct:dz_dev_zone
+no_dev_frame	tools/gui/gzbd.h	/^	GtkWidget		*no_dev_frame;$/;"	m	struct:dz
+non_seq	lib/zbd.h	/^	__u8	non_seq;        \/* Non-sequential write resources active *\/$/;"	m	struct:blk_zone_v2
+nonw_color	tools/gui/gzbd.h	/^	GdkRGBA			nonw_color;$/;"	m	struct:dz
+notebook	tools/gui/gzbd.h	/^	GtkWidget		*notebook;$/;"	m	struct:dz
+nr_col	tools/viewer/gzbd_viewer.h	/^	unsigned int		nr_col;$/;"	m	struct:gzv
+nr_conv_zones	tools/viewer/gzbd_viewer.h	/^	unsigned int		nr_conv_zones;$/;"	m	struct:gzv
+nr_devs	tools/gui/gzbd.h	/^	int			nr_devs;$/;"	m	struct:dz
+nr_grid_zones	tools/viewer/gzbd_viewer.h	/^	unsigned int		nr_grid_zones;$/;"	m	struct:gzv
+nr_lblocks	include/libzbd/zbd.h	/^	unsigned long long	nr_lblocks;$/;"	m	struct:zbd_info
+nr_pblocks	include/libzbd/zbd.h	/^	unsigned long long	nr_pblocks;$/;"	m	struct:zbd_info
+nr_row	tools/viewer/gzbd_viewer.h	/^	unsigned int		nr_row;$/;"	m	struct:gzv
+nr_sectors	include/libzbd/zbd.h	/^	unsigned long long	nr_sectors;$/;"	m	struct:zbd_info
+nr_zones	include/libzbd/zbd.h	/^	unsigned int		nr_zones;$/;"	m	struct:zbd_info
+nr_zones	lib/zbd.h	/^	__u32	nr_zones;$/;"	m	struct:blk_zone_report_v2
+nr_zones	tools/gui/gzbd.h	/^	unsigned int		nr_zones;$/;"	m	struct:dz_dev
+nr_zones	tools/viewer/gzbd_viewer.h	/^	unsigned int		nr_zones;$/;"	m	struct:gzv
+ofst	tools/cli/zbd.h	/^	long long		ofst;$/;"	m	struct:zbd_opts
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	lib/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	tools/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+opening	tools/gui/gzbd.h	/^	int			opening;$/;"	m	struct:dz_dev
+page	tools/gui/gzbd.h	/^	GtkWidget		*page;$/;"	m	struct:dz_dev
+page_frame	tools/gui/gzbd.h	/^	GtkWidget		*page_frame;$/;"	m	struct:dz_dev
+path	tools/gui/gzbd.h	/^	char			path[128];$/;"	m	struct:dz_dev
+path	tools/viewer/gzbd_viewer.h	/^	char			*path;$/;"	m	struct:gzv
+pblock_size	include/libzbd/zbd.h	/^	unsigned int		pblock_size;$/;"	m	struct:zbd_info
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	lib/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	tools/Makefile	/^pdfdir = ${docdir}$/;"	m
+pkgconf_DATA	lib/Makefile	/^pkgconf_DATA = libzbd.pc$/;"	m
+pkgconfdir	lib/Makefile	/^pkgconfdir = $(libdir)\/pkgconfig$/;"	m
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/libzbd$/;"	m
+pkgdatadir	lib/Makefile	/^pkgdatadir = $(datadir)\/libzbd$/;"	m
+pkgdatadir	tools/Makefile	/^pkgdatadir = $(datadir)\/libzbd$/;"	m
+pkginclude_HEADERS	lib/Makefile	/^pkginclude_HEADERS = ..\/include\/libzbd\/zbd.h$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/libzbd$/;"	m
+pkgincludedir	lib/Makefile	/^pkgincludedir = $(includedir)\/libzbd$/;"	m
+pkgincludedir	tools/Makefile	/^pkgincludedir = $(includedir)\/libzbd$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/libzbd$/;"	m
+pkglibdir	lib/Makefile	/^pkglibdir = $(libdir)\/libzbd$/;"	m
+pkglibdir	tools/Makefile	/^pkglibdir = $(libdir)\/libzbd$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/libzbd$/;"	m
+pkglibexecdir	lib/Makefile	/^pkglibexecdir = $(libexecdir)\/libzbd$/;"	m
+pkglibexecdir	tools/Makefile	/^pkglibexecdir = $(libexecdir)\/libzbd$/;"	m
+prefix	Makefile	/^prefix = \/usr$/;"	m
+prefix	lib/Makefile	/^prefix = \/usr$/;"	m
+prefix	tools/Makefile	/^prefix = \/usr$/;"	m
+program_details	build-aux/missing	/^program_details ()$/;"	f
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	lib/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	tools/Makefile	/^program_transform_name = s,x,x,$/;"	m
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+psdir	lib/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	tools/Makefile	/^psdir = ${docdir}$/;"	m
+refresh_interval	tools/viewer/gzbd_viewer.h	/^	int			refresh_interval;$/;"	m	struct:gzv
+refresh_timer	tools/viewer/gzbd_viewer.h	/^	GSource			*refresh_timer;$/;"	m	struct:gzv
+rep_capacity	tools/cli/zbd.h	/^	bool			rep_capacity;$/;"	m	struct:zbd_opts
+rep_csv	tools/cli/zbd.h	/^	bool			rep_csv;$/;"	m	struct:zbd_opts
+rep_dump	tools/cli/zbd.h	/^	bool			rep_dump;$/;"	m	struct:zbd_opts
+rep_num_zones	tools/cli/zbd.h	/^	bool			rep_num_zones;$/;"	m	struct:zbd_opts
+rep_opt	tools/cli/zbd.h	/^	enum zbd_report_option	rep_opt;$/;"	m	struct:zbd_opts	typeref:enum:zbd_opts::zbd_report_option
+reserved	include/libzbd/zbd.h	/^	uint8_t			reserved[20];	\/* Padding to 64B *\/$/;"	m	struct:zbd_zone
+reserved	include/libzbd/zbd.h	/^	uint8_t			reserved[36];$/;"	m	struct:zbd_info
+reserved	lib/zbd.h	/^	__u8	reserved[24];$/;"	m	struct:blk_zone_v2
+reserved	tools/cli/zbd.h	/^	uint8_t			reserved[56];	\/* 192 *\/$/;"	m	struct:zbd_dump
+reset	lib/zbd.h	/^	__u8	reset;          \/* Reset write pointer recommended *\/$/;"	m	struct:blk_zone_v2
+restored_bytes	tools/cli/zbd_dump.c	/^	long long restored_bytes;$/;"	m	struct:zbd_restore	file:
+restored_zones	tools/cli/zbd_dump.c	/^	unsigned int restored_zones;$/;"	m	struct:zbd_restore	file:
+resv	lib/zbd.h	/^	__u8	resv[4];$/;"	m	struct:blk_zone_v2
+ro	tools/gui/gzbd_if_dev.c	/^	int ro;$/;"	m	struct:dz_if_zinfo_filter	file:
+runstatedir	Makefile	/^runstatedir = ${localstatedir}\/run$/;"	m
+runstatedir	lib/Makefile	/^runstatedir = ${localstatedir}\/run$/;"	m
+runstatedir	tools/Makefile	/^runstatedir = ${localstatedir}\/run$/;"	m
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	lib/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	tools/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sector	lib/zbd.h	/^	__u64	sector;$/;"	m	struct:blk_zone_report_v2
+seqnw_color	tools/gui/gzbd.h	/^	GdkRGBA			seqnw_color;$/;"	m	struct:dz
+seqw_color	tools/gui/gzbd.h	/^	GdkRGBA			seqw_color;$/;"	m	struct:dz
+set_base_from	build-aux/depcomp	/^set_base_from ()$/;"	f
+set_dir_from	build-aux/depcomp	/^set_dir_from ()$/;"	f
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	lib/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	tools/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sig_pipe	tools/gui/gzbd.h	/^	int			sig_pipe[2];$/;"	m	struct:dz
+sig_pipe	tools/viewer/gzbd_viewer.h	/^	int			sig_pipe[2];$/;"	m	struct:gzv
+srcdir	Makefile	/^srcdir = .$/;"	m
+srcdir	lib/Makefile	/^srcdir = .$/;"	m
+srcdir	tools/Makefile	/^srcdir = .$/;"	m
+start	include/libzbd/zbd.h	/^	unsigned long long	start;		\/* Zone start *\/$/;"	m	struct:zbd_zone
+start	lib/zbd.h	/^	__u64	start;          \/* Zone start sector *\/$/;"	m	struct:blk_zone_v2
+str	lib/zbd_utils.c	/^	const char	*str;$/;"	m	struct:zbd_str	file:
+str	tools/gui/gzbd_if_dev.c	/^	char *str;$/;"	m	struct:dz_if_zinfo_filter	file:
+str_short	lib/zbd_utils.c	/^	const char	*str_short;$/;"	m	struct:zbd_str	file:
+subdir	Makefile	/^subdir = .$/;"	m
+subdir	lib/Makefile	/^subdir = lib$/;"	m
+subdir	tools/Makefile	/^subdir = tools$/;"	m
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	lib/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	tools/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | BZIP2=$${BZIP2--9} bzip2 -c >$(distdir).tar.bz2$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | XZ_OPT=$${XZ_OPT--e} xz -c >$(distdir).tar.xz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | compress -c >$(distdir).tar.Z$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | eval GZIP= gzip $(GZIP_ENV) -c >$(distdir).tar.gz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | lzip -c $${LZIP_OPT--9} >$(distdir).tar.lz$/;"	m
+target	Makefile	/^target = x86_64-pc-linux-gnu$/;"	m
+target	lib/Makefile	/^target = x86_64-pc-linux-gnu$/;"	m
+target	tools/Makefile	/^target = x86_64-pc-linux-gnu$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+target_alias	lib/Makefile	/^target_alias = $/;"	m
+target_alias	tools/Makefile	/^target_alias = $/;"	m
+target_cpu	Makefile	/^target_cpu = x86_64$/;"	m
+target_cpu	lib/Makefile	/^target_cpu = x86_64$/;"	m
+target_cpu	tools/Makefile	/^target_cpu = x86_64$/;"	m
+target_os	Makefile	/^target_os = linux-gnu$/;"	m
+target_os	lib/Makefile	/^target_os = linux-gnu$/;"	m
+target_os	tools/Makefile	/^target_os = linux-gnu$/;"	m
+target_triplet	Makefile	/^target_triplet = x86_64-pc-linux-gnu$/;"	m
+target_triplet	lib/Makefile	/^target_triplet = x86_64-pc-linux-gnu$/;"	m
+target_triplet	tools/Makefile	/^target_triplet = x86_64-pc-linux-gnu$/;"	m
+target_vendor	Makefile	/^target_vendor = pc$/;"	m
+target_vendor	lib/Makefile	/^target_vendor = pc$/;"	m
+target_vendor	tools/Makefile	/^target_vendor = pc$/;"	m
+top_build_prefix	Makefile	/^top_build_prefix = $/;"	m
+top_build_prefix	lib/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	tools/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = .$/;"	m
+top_builddir	lib/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	tools/Makefile	/^top_builddir = ..$/;"	m
+top_distdir	Makefile	/^top_distdir = $(distdir)$/;"	m
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m
+top_srcdir	lib/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	tools/Makefile	/^top_srcdir = ..$/;"	m
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	lib/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	tools/Makefile	/^transform = $(program_transform_name)$/;"	m
+type	include/libzbd/zbd.h	/^	unsigned int		type;		\/* Zone type *\/$/;"	m	struct:zbd_zone
+type	lib/zbd.h	/^	__u8	type;           \/* Zone type *\/$/;"	m	struct:blk_zone_v2
+unit	tools/cli/zbd.h	/^	size_t			unit;$/;"	m	struct:zbd_opts
+use_hexa	tools/gui/gzbd.h	/^	int			use_hexa;$/;"	m	struct:dz_dev
+vadj	tools/viewer/gzbd_viewer.h	/^	GtkAdjustment		*vadj;$/;"	m	struct:gzv
+val	lib/zbd_utils.c	/^	unsigned int	val;$/;"	m	struct:zbd_str	file:
+vbox	tools/gui/gzbd.h	/^	GtkWidget		*vbox;$/;"	m	struct:dz
+vendor_id	include/libzbd/zbd.h	/^	char			vendor_id[ZBD_VENDOR_ID_LENGTH];$/;"	m	struct:zbd_info
+visible	tools/gui/gzbd.h	/^	int			visible;$/;"	m	struct:dz_dev_zone
+window	tools/gui/gzbd.h	/^	GtkWidget		*window;$/;"	m	struct:dz
+window	tools/viewer/gzbd_viewer.h	/^	GtkWidget		*window;$/;"	m	struct:gzv
+wp	include/libzbd/zbd.h	/^	unsigned long long	wp;		\/* Zone write pointer *\/$/;"	m	struct:zbd_zone
+wp	lib/zbd.h	/^	__u64	wp;             \/* Zone write pointer position *\/$/;"	m	struct:blk_zone_v2
+zact	tools/cli/zbd.c	/^static struct zbd_action zact[] = {$/;"	v	typeref:struct:zbd_action	file:
+zbd_DEPENDENCIES	tools/Makefile	/^zbd_DEPENDENCIES = $(libzbd_ldadd)$/;"	m
+zbd_LDADD	tools/Makefile	/^zbd_LDADD = $(libzbd_ldadd)$/;"	m
+zbd_OBJECTS	tools/Makefile	/^zbd_OBJECTS = $(am_zbd_OBJECTS)$/;"	m
+zbd_SOURCES	tools/Makefile	/^zbd_SOURCES = \\$/;"	m
+zbd_action	tools/cli/zbd.c	/^struct zbd_action {$/;"	s	file:
+zbd_assert	lib/zbd.h	91;"	d
+zbd_close	lib/zbd.c	/^void zbd_close(int fd)$/;"	f
+zbd_close_zones	include/libzbd/zbd.h	/^static inline int zbd_close_zones(int fd, off_t ofst, off_t len)$/;"	f
+zbd_cmd	tools/cli/zbd.h	/^enum zbd_cmd {$/;"	g
+zbd_debug	lib/zbd.h	79;"	d
+zbd_dev_model	include/libzbd/zbd.h	/^enum zbd_dev_model {$/;"	g
+zbd_dev_path	lib/zbd.c	/^static int zbd_dev_path(const char *filename, char **path, char **devname)$/;"	f	file:
+zbd_device_is_zoned	lib/zbd.c	/^int zbd_device_is_zoned(const char *filename)$/;"	f
+zbd_device_model_str	lib/zbd_utils.c	/^const char *zbd_device_model_str(enum zbd_dev_model model, bool s)$/;"	f
+zbd_dm_str	lib/zbd_utils.c	/^static struct zbd_str zbd_dm_str[] = {$/;"	v	typeref:struct:zbd_str	file:
+zbd_do_get_info	lib/zbd.c	/^static struct zbd_info *zbd_do_get_info(int fd, char *devname)$/;"	f	file:
+zbd_dump	tools/cli/zbd.h	/^struct zbd_dump {$/;"	s
+zbd_dump	tools/cli/zbd_dump.c	/^int zbd_dump(int fd, struct zbd_opts *opts)$/;"	f
+zbd_dump_one_zone	tools/cli/zbd_dump.c	/^static ssize_t zbd_dump_one_zone(int fd, struct zbd_opts *opts,$/;"	f	file:
+zbd_dump_prep_path	tools/cli/zbd_dump.c	/^static void zbd_dump_prep_path(struct zbd_opts *opts)$/;"	f	file:
+zbd_dump_report_zones	tools/cli/zbd_dump.c	/^int zbd_dump_report_zones(int fd, struct zbd_opts *opts,$/;"	f
+zbd_dump_should_report_zone	tools/cli/zbd_dump.c	/^static bool zbd_dump_should_report_zone(struct zbd_zone *zone,$/;"	f	file:
+zbd_dump_zone_data	tools/cli/zbd_dump.c	/^static int zbd_dump_zone_data(int fd, struct zbd_opts *opts,$/;"	f	file:
+zbd_dump_zone_info	tools/cli/zbd_dump.c	/^static int zbd_dump_zone_info(int fd, struct zbd_opts *opts,$/;"	f	file:
+zbd_error	lib/zbd.h	76;"	d
+zbd_fdi	lib/zbd.c	/^static struct zbd_info *zbd_fdi[ZBD_FD_MAX];$/;"	v	typeref:struct:zbd_info	file:
+zbd_finish_zones	include/libzbd/zbd.h	/^static inline int zbd_finish_zones(int fd, off_t ofst, off_t len)$/;"	f
+zbd_get_dev_model	lib/zbd.c	/^static enum zbd_dev_model zbd_get_dev_model(char *devname)$/;"	f	file:
+zbd_get_fd	lib/zbd.c	/^static inline struct zbd_info *zbd_get_fd(int fd)$/;"	f	file:
+zbd_get_info	lib/zbd.c	/^int zbd_get_info(int fd, struct zbd_info *info)$/;"	f
+zbd_get_max_resources	lib/zbd.c	/^static void zbd_get_max_resources(char *devname, struct zbd_info *zbdi)$/;"	f	file:
+zbd_get_nr_zones	lib/zbd.c	/^static int zbd_get_nr_zones(int fd, char *devname, struct zbd_info *zbdi)$/;"	f	file:
+zbd_get_str	lib/zbd_utils.c	/^static const char *zbd_get_str(struct zbd_str *str, unsigned int val, bool s)$/;"	f	file:
+zbd_get_sysfs_attr	lib/zbd_utils.c	/^static int zbd_get_sysfs_attr(char *devname, const char *attr,$/;"	f	file:
+zbd_get_sysfs_attr_int64	lib/zbd_utils.c	/^int zbd_get_sysfs_attr_int64(char *devname, const char *attr, long long *val)$/;"	f
+zbd_get_sysfs_attr_str	lib/zbd_utils.c	/^int zbd_get_sysfs_attr_str(char *devname, const char *attr,$/;"	f
+zbd_get_vendor_id	lib/zbd.c	/^static int zbd_get_vendor_id(char *devname, struct zbd_info *zbdi)$/;"	f	file:
+zbd_get_zone_sectors	lib/zbd.c	/^static int zbd_get_zone_sectors(int fd, char *devname, __u32 *zone_sectors)$/;"	f	file:
+zbd_get_zone_size	lib/zbd.c	/^static int zbd_get_zone_size(int fd, char *devname, struct zbd_info *zbdi)$/;"	f	file:
+zbd_info	include/libzbd/zbd.h	/^struct zbd_info {$/;"	s
+zbd_list_zones	lib/zbd.c	/^int zbd_list_zones(int fd, off_t ofst, off_t len,$/;"	f
+zbd_load_zone_info	tools/cli/zbd_dump.c	/^static int zbd_load_zone_info(struct zbd_restore *ropts,$/;"	f	file:
+zbd_log_level	include/libzbd/zbd.h	/^enum zbd_log_level {$/;"	g
+zbd_log_level	lib/zbd_utils.c	/^__thread int zbd_log_level = ZBD_LOG_NONE;$/;"	v
+zbd_mgmt	tools/cli/zbd.c	/^static int zbd_mgmt(int fd, struct zbd_opts *opts)$/;"	f	file:
+zbd_open	lib/zbd.c	/^int zbd_open(const char *filename, int flags, struct zbd_info *info)$/;"	f
+zbd_open_dump	tools/cli/zbd_dump.c	/^int zbd_open_dump(struct zbd_opts *opts)$/;"	f
+zbd_open_zone_data	tools/cli/zbd_dump.c	/^static int zbd_open_zone_data(struct zbd_restore *ropts,$/;"	f	file:
+zbd_open_zones	include/libzbd/zbd.h	/^static inline int zbd_open_zones(int fd, off_t ofst, off_t len)$/;"	f
+zbd_opts	tools/cli/zbd.h	/^struct zbd_opts {$/;"	s
+zbd_panic	lib/zbd.h	82;"	d
+zbd_parse_zone	lib/zbd.c	/^static inline void zbd_parse_zone(struct zbd_zone *zone, struct blk_zone *blkz,$/;"	f	file:
+zbd_print	lib/zbd.h	63;"	d
+zbd_print_dev_info	tools/cli/zbd.c	/^static void zbd_print_dev_info(struct zbd_opts *opts)$/;"	f	file:
+zbd_print_level	lib/zbd.h	69;"	d
+zbd_print_zone	tools/cli/zbd.c	/^static void zbd_print_zone(struct zbd_opts *opts, struct zbd_zone *z)$/;"	f	file:
+zbd_put_fd	lib/zbd.c	/^static inline void zbd_put_fd(int fd)$/;"	f	file:
+zbd_read	tools/cli/zbd_dump.c	/^static inline ssize_t zbd_read(int fd, void *buf, size_t count, off_t offset)$/;"	f	file:
+zbd_report	tools/cli/zbd.c	/^static int zbd_report(int fd, struct zbd_opts *opts)$/;"	f	file:
+zbd_report_nr_zones	include/libzbd/zbd.h	/^static inline int zbd_report_nr_zones(int fd, off_t ofst, off_t len,$/;"	f
+zbd_report_option	include/libzbd/zbd.h	/^enum zbd_report_option {$/;"	g
+zbd_report_zones	lib/zbd.c	/^int zbd_report_zones(int fd, off_t ofst, off_t len, enum zbd_report_option ro,$/;"	f
+zbd_reset_zones	include/libzbd/zbd.h	/^static inline int zbd_reset_zones(int fd, off_t ofst, off_t len)$/;"	f
+zbd_restore	tools/cli/zbd_dump.c	/^int zbd_restore(int fd, struct zbd_opts *opts)$/;"	f
+zbd_restore	tools/cli/zbd_dump.c	/^struct zbd_restore {$/;"	s	file:
+zbd_restore_one_zone	tools/cli/zbd_dump.c	/^static int zbd_restore_one_zone(int fd, struct zbd_restore *ropts,$/;"	f	file:
+zbd_restore_zone_data	tools/cli/zbd_dump.c	/^static long long zbd_restore_zone_data(int fd, struct zbd_restore *ropts,$/;"	f	file:
+zbd_rw	tools/cli/zbd_dump.c	/^static ssize_t zbd_rw(int fd, bool read, void *buf, size_t count, off_t offset)$/;"	f	file:
+zbd_set_log_level	lib/zbd_utils.c	/^void zbd_set_log_level(enum zbd_log_level level)$/;"	f
+zbd_should_report_zone	lib/zbd.c	/^static bool zbd_should_report_zone(struct zbd_zone *zone,$/;"	f	file:
+zbd_str	lib/zbd_utils.c	/^struct zbd_str {$/;"	s	file:
+zbd_str_strip	lib/zbd_utils.c	/^static int zbd_str_strip(char *str)$/;"	f	file:
+zbd_usage	tools/cli/zbd.c	/^static int zbd_usage(char *cmd)$/;"	f	file:
+zbd_write	tools/cli/zbd_dump.c	/^static inline ssize_t zbd_write(int fd, void *buf, size_t count, off_t offset)$/;"	f	file:
+zbd_zcond_str	lib/zbd_utils.c	/^static struct zbd_str zbd_zcond_str[] = {$/;"	v	typeref:struct:zbd_str	file:
+zbd_zone	include/libzbd/zbd.h	/^struct zbd_zone {$/;"	s
+zbd_zone_capacity	include/libzbd/zbd.h	512;"	d
+zbd_zone_closed	include/libzbd/zbd.h	504;"	d
+zbd_zone_cnv	include/libzbd/zbd.h	493;"	d
+zbd_zone_cond	include/libzbd/zbd.h	/^enum zbd_zone_cond {$/;"	g
+zbd_zone_cond	include/libzbd/zbd.h	498;"	d
+zbd_zone_cond_str	lib/zbd_utils.c	/^const char *zbd_zone_cond_str(struct zbd_zone *z, bool s)$/;"	f
+zbd_zone_empty	include/libzbd/zbd.h	500;"	d
+zbd_zone_exp_open	include/libzbd/zbd.h	502;"	d
+zbd_zone_flags	include/libzbd/zbd.h	/^enum zbd_zone_flags {$/;"	g
+zbd_zone_flags	include/libzbd/zbd.h	515;"	d
+zbd_zone_full	include/libzbd/zbd.h	506;"	d
+zbd_zone_imp_open	include/libzbd/zbd.h	501;"	d
+zbd_zone_is_active	include/libzbd/zbd.h	505;"	d
+zbd_zone_is_open	include/libzbd/zbd.h	503;"	d
+zbd_zone_len	include/libzbd/zbd.h	511;"	d
+zbd_zone_non_seq_resources	include/libzbd/zbd.h	517;"	d
+zbd_zone_not_wp	include/libzbd/zbd.h	499;"	d
+zbd_zone_offline	include/libzbd/zbd.h	508;"	d
+zbd_zone_op	include/libzbd/zbd.h	/^enum zbd_zone_op {$/;"	g
+zbd_zone_rdonly	include/libzbd/zbd.h	507;"	d
+zbd_zone_rwp_recommended	include/libzbd/zbd.h	516;"	d
+zbd_zone_seq	include/libzbd/zbd.h	496;"	d
+zbd_zone_start	include/libzbd/zbd.h	510;"	d
+zbd_zone_swp	include/libzbd/zbd.h	495;"	d
+zbd_zone_swr	include/libzbd/zbd.h	494;"	d
+zbd_zone_type	include/libzbd/zbd.h	/^enum zbd_zone_type {$/;"	g
+zbd_zone_type	include/libzbd/zbd.h	492;"	d
+zbd_zone_type_str	lib/zbd_utils.c	/^const char *zbd_zone_type_str(struct zbd_zone *z, bool s)$/;"	f
+zbd_zone_wp	include/libzbd/zbd.h	513;"	d
+zbd_zones_operation	lib/zbd.c	/^int zbd_zones_operation(int fd, enum zbd_zone_op op, off_t ofst, off_t len)$/;"	f
+zbd_ztype_str	lib/zbd_utils.c	/^static struct zbd_str zbd_ztype_str[] = {$/;"	v	typeref:struct:zbd_str	file:
+zbdz	tools/gui/gzbd.h	/^	struct zbd_zone		*zbdz;$/;"	m	struct:dz_dev	typeref:struct:dz_dev::zbd_zone
+zbdz	tools/viewer/gzbd_viewer.h	/^	struct zbd_zone		*zbdz;$/;"	m	struct:gzv_zone	typeref:struct:gzv_zone::zbd_zone
+zblock_entry	tools/gui/gzbd.h	/^	GtkWidget		*zblock_entry;$/;"	m	struct:dz_dev
+zend	tools/cli/zbd.h	/^	unsigned int		zend;		\/* 136 *\/$/;"	m	struct:zbd_dump
+zend	tools/cli/zbd_dump.c	/^	unsigned int zend;$/;"	m	struct:zbd_restore	file:
+zfilter	tools/gui/gzbd_if_dev.c	/^} zfilter[] = {$/;"	v	typeref:struct:dz_if_zinfo_filter	file:
+zfilter_combo	tools/gui/gzbd.h	/^	GtkWidget		*zfilter_combo;$/;"	m	struct:dz_dev
+zlist_end_no	tools/gui/gzbd.h	/^	unsigned int		zlist_end_no;$/;"	m	struct:dz_dev
+zlist_frame_label	tools/gui/gzbd.h	/^	GtkWidget		*zlist_frame_label;$/;"	m	struct:dz_dev
+zlist_model	tools/gui/gzbd.h	/^	GtkTreeModel		*zlist_model;$/;"	m	struct:dz_dev
+zlist_selection	tools/gui/gzbd.h	/^	int			zlist_selection;$/;"	m	struct:dz_dev
+zlist_start_no	tools/gui/gzbd.h	/^	unsigned int		zlist_start_no;$/;"	m	struct:dz_dev
+zlist_store	tools/gui/gzbd.h	/^	GtkListStore		*zlist_store;$/;"	m	struct:dz_dev
+zlist_treeview	tools/gui/gzbd.h	/^	GtkWidget		*zlist_treeview;$/;"	m	struct:dz_dev
+zno	tools/viewer/gzbd_viewer.h	/^	unsigned int		zno;$/;"	m	struct:gzv_zone
+znum_entry	tools/gui/gzbd.h	/^	GtkWidget		*znum_entry;$/;"	m	struct:dz_dev
+zone_no	tools/gui/gzbd.h	/^	int			zone_no;$/;"	m	struct:dz_dev
+zone_op	tools/gui/gzbd.h	/^	unsigned int		zone_op;$/;"	m	struct:dz_dev
+zone_ro	tools/gui/gzbd.h	/^	int			zone_ro;$/;"	m	struct:dz_dev
+zone_sectors	include/libzbd/zbd.h	/^	unsigned int		zone_sectors;$/;"	m	struct:zbd_info
+zone_size	include/libzbd/zbd.h	/^	unsigned long long	zone_size;$/;"	m	struct:zbd_info
+zones	lib/zbd.h	/^struct blk_zone zones[0];$/;"	m	struct:blk_zone_report_v2	typeref:struct:blk_zone_report_v2::blk_zone
+zones	tools/gui/gzbd.h	/^	dz_dev_zone_t		*zones;$/;"	m	struct:dz_dev
+zones	tools/viewer/gzbd_viewer.h	/^	struct zbd_zone		*zones;$/;"	m	struct:gzv	typeref:struct:gzv::zbd_zone
+zones_da	tools/gui/gzbd.h	/^	GtkWidget		*zones_da;$/;"	m	struct:dz_dev
+zstart	tools/cli/zbd.h	/^	unsigned int		zstart;		\/* 132 *\/$/;"	m	struct:zbd_dump
+zstart	tools/cli/zbd_dump.c	/^	unsigned int zstart;$/;"	m	struct:zbd_restore	file:

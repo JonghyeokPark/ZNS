@@ -758,8 +758,6 @@ int zbd_zones_operation(int fd, enum zbd_zone_op op, off_t ofst, off_t len)
 	    end == (unsigned long long)ofst)
 		return 0;
 
-	fprintf(stderr, "--reset ofset : %u nr_sectors: %u\n", ofst, end - ofst);
-
 	/* Execute the operation */
 	range.sector = ofst;
 	range.nr_sectors = end - ofst;

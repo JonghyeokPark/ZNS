@@ -558,12 +558,22 @@ int zbd_report_zones(int fd, off_t ofst, off_t len, enum zbd_report_option ro,
 	if (len == 0)
 		len = zbdi->nr_sectors << SECTOR_SHIFT;
 
-	end = ((ofst + len + zone_size_mask) & (~zone_size_mask))
-		>> SECTOR_SHIFT;
+// FIXME(jhpark)
+//	end = ((ofst + len + zone_size_mask) & (~zone_size_mask))
+//		>> SECTOR_SHIFT;
+
+	unsigned long long part = ((ofst + len) / zbdi->zone_size);
+	if ((ofst+len) % zbdi->zone_size != 0) part++;
+	end = (( part * zbdi->zone_size) >> SECTOR_SHIFT);
+
 	if (end > zbdi->nr_sectors)
 		end = zbdi->nr_sectors;
 
-	ofst = (ofst & (~zone_size_mask)) >> SECTOR_SHIFT;
+// FIXME(jhpark)
+//	ofst = (ofst & (~zone_size_mask)) >> SECTOR_SHIFT;
+	part = ((ofst) / zbdi->zone_size);
+	ofst = (( part * zbdi->zone_size) >> SECTOR_SHIFT);
+
 	if ((unsigned long long)ofst >= zbdi->nr_sectors) {
 		*nr_zones = 0;
 		return 0;
@@ -713,8 +723,9 @@ int zbd_zones_operation(int fd, enum zbd_zone_op op, off_t ofst, off_t len)
 		len = zbdi->nr_sectors << SECTOR_SHIFT;
 
 // FIXME(jhpark)
-	end = ((ofst + len)) >> SECTOR_SHIFT;
-
+	unsigned long long part = ((ofst + len) / zbdi->zone_size);
+	if ( (ofst+len) % zbdi->zone_size != 0) part++;
+	end = (( part * zbdi->zone_size) >> SECTOR_SHIFT);
 //	end = ((ofst + len + zone_size_mask) & (~zone_size_mask))
 //		>> SECTOR_SHIFT;
 
@@ -722,8 +733,8 @@ int zbd_zones_operation(int fd, enum zbd_zone_op op, off_t ofst, off_t len)
 		end = zbdi->nr_sectors;
 
 #ifdef DEBUG_DEBUG
-//	fprintf(stderr, "zone_size: %llu nr_sectors: %u mask: %x ofst: %u  len: %u end: %u\n"
-//			, zbdi->zone_size, zbdi->nr_sectors, zone_size_mask, ofst, len, end);
+	fprintf(stderr, "zone_size: %llu nr_sectors: %u mask: %x ofst: %u  len: %u end: %u\n"
+			, zbdi->zone_size, zbdi->nr_sectors, zone_size_mask, ofst, len, end);
 #endif 
 
 	/* Check the operation */
@@ -752,11 +763,17 @@ int zbd_zones_operation(int fd, enum zbd_zone_op op, off_t ofst, off_t len)
 
 // FIXME(jhpark)
 //	ofst = (ofst & (~zone_size_mask)) >> SECTOR_SHIFT;
-	ofst = (ofst >> SECTOR_SHIFT);
+//	ofst = (ofst >> SECTOR_SHIFT);
+	part = ((ofst) / zbdi->zone_size);
+	ofst = (( part * zbdi->zone_size) >> SECTOR_SHIFT);
+
 
 	if ((unsigned long long)ofst >= zbdi->nr_sectors ||
-	    end == (unsigned long long)ofst)
+	    end == (unsigned long long)ofst) {
 		return 0;
+	}
+
+//	fprintf(stderr, "--reset ofset : %u nr_sectors: %u\n", ofst, end - ofst);
 
 	/* Execute the operation */
 	range.sector = ofst;

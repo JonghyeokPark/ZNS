@@ -14,11 +14,13 @@ ifeq ($(origin PYTHON), undefined)
 endif
 export PYTHON
 
+# (jhpark): add library for xZTL
+XZTL_LDFLAGS := -lssl -lcrypto -luring -lm -ldl 
 CLEAN_FILES = # deliberately empty, so we can append below.
 CFLAGS += ${EXTRA_CFLAGS}
 CXXFLAGS += ${EXTRA_CXXFLAGS}
 #LDFLAGS += $(EXTRA_LDFLAGS)
-LDFLAGS += -MMD -MP -MF -fPIE -Wl,--whole-archive -Wl,--no-as-needed -lzrocks -Wl,--no-whole-archive -Wl,--as-needed -luuid -fopenmp -laio $(EXTRA_LDFLAGS)
+LDFLAGS += -MMD -MP -MF -fPIE -Wl,--whole-archive -Wl,--no-as-needed -lzrocks -Wl,--no-whole-archive -Wl,--as-needed -luuid -fopenmp -laio $(EXTRA_LDFLAGS) $(XZTL_LDFLAGS)
 MACHINE ?= $(shell uname -m)
 ARFLAGS = ${EXTRA_ARFLAGS} rs
 STRIPFLAGS = -S -x

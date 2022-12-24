@@ -42,7 +42,7 @@ See more detail [patch from Samsung](https://patchwork.kernel.org/project/dm-dev
 # Step 0. Prerequisite
 sudo apt-get update
 sudo apt-get install build-essential libncurses5 libncurses5-dev \
-										 bin86 kernel-package libssl-dev bison flex libelf-dev
+bin86 kernel-package libssl-dev bison flex libelf-dev
 
 # Step 1. Load kernel
 cd kernel/linux-5.17.8/

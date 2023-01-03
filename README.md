@@ -109,6 +109,22 @@ make db_bench DEBUG_LEVEL=0 -j
 
 See more detail in the [Official Repository](https://github.com/facebook/rocksdb)
 
+## YCSB for ZNS RocksDB
+
+The YCSB Benchmark referred to [YCSB-C]() and [YCSB-HW]() Benchmark
+
+### Build 
+```
+cd rocksdb
+DEBUG_LEVEL=0 make static_lib -j
+sudo DEBUG_LEVEL=0 make ycsbc -j
+```
+
+### Run
+```
+sudo zbd reset [ZNS Device]
+sudo ./ycsbc -db zns -dbpath $dbpath -threads 16 -P $workload -dbstatistics true -optpath ./ycsb/options.ini
+```
 
 
 # Contact

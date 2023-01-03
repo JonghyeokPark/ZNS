@@ -835,7 +835,8 @@ set(SOURCES
         utilities/transactions/write_unprepared_txn_db.cc
         utilities/ttl/db_ttl_impl.cc
         utilities/write_batch_with_index/write_batch_with_index.cc
-        utilities/write_batch_with_index/write_batch_with_index_internal.cc)
+        utilities/write_batch_with_index/write_batch_with_index_internal.cc
+)
 
 list(APPEND SOURCES
   utilities/transactions/lock/range/range_tree/lib/locktree/concurrent_tree.cc
@@ -1312,6 +1313,14 @@ if(WITH_BENCHMARK_TOOLS)
     tools/db_bench.cc
     tools/db_bench_tool.cc)
   target_link_libraries(db_bench${ARTIFACT_SUFFIX}
+    ${ROCKSDB_LIB} ${THIRDPARTY_LIBS})
+
+# jhpark
+  add_executable(ycsbc${ARTIFACT_SUFFIX}
+    ycsb/ycsbc.cc
+	ycsb/db_factory.cc
+	ycsb/core_workload.cc)
+  target_link_libraries(ycsbc${ARTIFACT_SUFFIX}
     ${ROCKSDB_LIB} ${THIRDPARTY_LIBS})
 
   add_executable(cache_bench${ARTIFACT_SUFFIX}

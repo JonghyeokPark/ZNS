@@ -314,6 +314,12 @@ TOOL_LIB_SOURCES =                                              \
   tools/sst_dump_tool.cc                                        \
   utilities/blob_db/blob_dump_tool.cc                           \
 
+YCSB_LIB_SOURCES =                                              \
+  ycsb/core_workload.cc											\
+  ycsb/db_factory.cc											\
+  ycsb/rocksdb_db.cc                                            \
+  ycsb/ycsbc.cc													\
+
 ANALYZER_LIB_SOURCES =                                          \
   tools/block_cache_analyzer/block_cache_trace_analyzer.cc      \
   tools/trace_analyzer_tool.cc                                  \
